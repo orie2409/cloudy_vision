@@ -1,0 +1,4 @@
+#!"c:\users\lmunroe\documents\1. projects\ai disruptor\api_benchmarking\venv\scripts\python.exe"
+# EASY-INSTALL-SCRIPT: 'clarifai==2.0.33','clarifai'
+__requires__ = 'clarifai==2.0.33'
+__import__('pkg_resources').run_script('clarifai==2.0.33', 'clarifai')
