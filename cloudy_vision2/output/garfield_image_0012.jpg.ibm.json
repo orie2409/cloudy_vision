@@ -1,0 +1,35 @@
+{
+    "custom_classes": 0,
+    "images": [
+        {
+            "classifiers": [
+                {
+                    "classes": [
+                        {
+                            "class": "plush (fabric for toys)",
+                            "score": 0.989,
+                            "type_hierarchy": "/fabric/plush (fabric for toys)"
+                        },
+                        {
+                            "class": "fabric",
+                            "score": 0.989
+                        },
+                        {
+                            "class": "mechanism",
+                            "score": 0.761
+                        },
+                        {
+                            "class": "reddish orange color",
+                            "score": 0.759
+                        }
+                    ],
+                    "classifier_id": "default",
+                    "name": "default"
+                }
+            ],
+            "image": "input_images\\garfield_image_0012.jpg"
+        }
+    ],
+    "images_processed": 1,
+    "response_time": 1.2244949340820312
+}

@@ -1,0 +1,57 @@
+{
+    "custom_classes": 0,
+    "images": [
+        {
+            "classifiers": [
+                {
+                    "classes": [
+                        {
+                            "class": "hearse",
+                            "score": 0.715,
+                            "type_hierarchy": "/vehicle/wheeled vehicle/hearse"
+                        },
+                        {
+                            "class": "wheeled vehicle",
+                            "score": 0.88
+                        },
+                        {
+                            "class": "vehicle",
+                            "score": 0.883
+                        },
+                        {
+                            "class": "minivan",
+                            "score": 0.546,
+                            "type_hierarchy": "/vehicle/wheeled vehicle/truck/van/minivan"
+                        },
+                        {
+                            "class": "van",
+                            "score": 0.571
+                        },
+                        {
+                            "class": "truck",
+                            "score": 0.594
+                        },
+                        {
+                            "class": "car",
+                            "score": 0.5,
+                            "type_hierarchy": "/vehicle/wheeled vehicle/car"
+                        },
+                        {
+                            "class": "gray color",
+                            "score": 0.927
+                        },
+                        {
+                            "class": "ash grey color",
+                            "score": 0.731
+                        }
+                    ],
+                    "classifier_id": "default",
+                    "name": "default"
+                }
+            ],
+            "image": "input_images\\car_image_0116.jpg"
+        }
+    ],
+    "images_processed": 1,
+    "response_time": 0.97088623046875
+}

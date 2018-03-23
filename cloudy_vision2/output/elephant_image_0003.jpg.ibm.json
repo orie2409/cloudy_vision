@@ -1,0 +1,57 @@
+{
+    "custom_classes": 0,
+    "images": [
+        {
+            "classifiers": [
+                {
+                    "classes": [
+                        {
+                            "class": "elephant",
+                            "score": 0.786,
+                            "type_hierarchy": "/animal/mammal/pachyderm (thick skinned hoofed)/elephant"
+                        },
+                        {
+                            "class": "pachyderm (thick skinned hoofed)",
+                            "score": 0.867
+                        },
+                        {
+                            "class": "mammal",
+                            "score": 0.925
+                        },
+                        {
+                            "class": "animal",
+                            "score": 0.926
+                        },
+                        {
+                            "class": "Malayan tapir (hoofed animal)",
+                            "score": 0.599,
+                            "type_hierarchy": "/animal/mammal/odd-toed ungulate (hoofed mammal)/Malayan tapir (hoofed animal)"
+                        },
+                        {
+                            "class": "odd-toed ungulate (hoofed mammal)",
+                            "score": 0.614
+                        },
+                        {
+                            "class": "Indian elephant",
+                            "score": 0.5,
+                            "type_hierarchy": "/animal/mammal/pachyderm (thick skinned hoofed)/elephant/Indian elephant"
+                        },
+                        {
+                            "class": "coal black color",
+                            "score": 0.923
+                        },
+                        {
+                            "class": "alabaster color",
+                            "score": 0.721
+                        }
+                    ],
+                    "classifier_id": "default",
+                    "name": "default"
+                }
+            ],
+            "image": "input_images\\elephant_image_0003.jpg"
+        }
+    ],
+    "images_processed": 1,
+    "response_time": 1.0869455337524414
+}

@@ -1,0 +1,39 @@
+{
+    "custom_classes": 0,
+    "images": [
+        {
+            "classifiers": [
+                {
+                    "classes": [
+                        {
+                            "class": "octagon",
+                            "score": 0.989,
+                            "type_hierarchy": "/figure/polygon/octagon"
+                        },
+                        {
+                            "class": "polygon",
+                            "score": 0.989
+                        },
+                        {
+                            "class": "figure",
+                            "score": 0.989
+                        },
+                        {
+                            "class": "indicator",
+                            "score": 0.785
+                        },
+                        {
+                            "class": "maroon color",
+                            "score": 0.893
+                        }
+                    ],
+                    "classifier_id": "default",
+                    "name": "default"
+                }
+            ],
+            "image": "input_images\\stopsign_image_0044.jpg"
+        }
+    ],
+    "images_processed": 1,
+    "response_time": 1.104665756225586
+}

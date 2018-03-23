@@ -1,0 +1,48 @@
+{
+    "custom_classes": 0,
+    "images": [
+        {
+            "classifiers": [
+                {
+                    "classes": [
+                        {
+                            "class": "wood tick",
+                            "score": 0.905,
+                            "type_hierarchy": "/animal/invertebrate/tick/wood tick"
+                        },
+                        {
+                            "class": "tick",
+                            "score": 0.975
+                        },
+                        {
+                            "class": "invertebrate",
+                            "score": 0.975
+                        },
+                        {
+                            "class": "animal",
+                            "score": 0.975
+                        },
+                        {
+                            "class": "deer tick",
+                            "score": 0.5,
+                            "type_hierarchy": "/animal/invertebrate/tick/deer tick"
+                        },
+                        {
+                            "class": "coal black color",
+                            "score": 0.943
+                        },
+                        {
+                            "class": "emerald color",
+                            "score": 0.737
+                        }
+                    ],
+                    "classifier_id": "default",
+                    "name": "default"
+                }
+            ],
+            "image": "input_images\\tick_image_0045.jpg"
+        }
+    ],
+    "images_processed": 1,
+    "response_time": 1.1188766956329346
+}

@@ -1,0 +1,69 @@
+{
+    "custom_classes": 0,
+    "images": [
+        {
+            "classifiers": [
+                {
+                    "classes": [
+                        {
+                            "class": "cross",
+                            "score": 0.662
+                        },
+                        {
+                            "class": "fan blade",
+                            "score": 0.615,
+                            "type_hierarchy": "/rotating mechanism/fan blade"
+                        },
+                        {
+                            "class": "rotating mechanism",
+                            "score": 0.616
+                        },
+                        {
+                            "class": "Psychopsis papilio",
+                            "score": 0.59,
+                            "type_hierarchy": "/plant/flowering plant/flower/orchid/Psychopsis papilio"
+                        },
+                        {
+                            "class": "orchid",
+                            "score": 0.683
+                        },
+                        {
+                            "class": "flower",
+                            "score": 0.686
+                        },
+                        {
+                            "class": "flowering plant",
+                            "score": 0.686
+                        },
+                        {
+                            "class": "plant",
+                            "score": 0.686
+                        },
+                        {
+                            "class": "religious symbol",
+                            "score": 0.522
+                        },
+                        {
+                            "class": "butterfly orchid",
+                            "score": 0.5,
+                            "type_hierarchy": "/plant/flowering plant/flower/orchid/butterfly orchid"
+                        },
+                        {
+                            "class": "maroon color",
+                            "score": 0.925
+                        },
+                        {
+                            "class": "light brown color",
+                            "score": 0.746
+                        }
+                    ],
+                    "classifier_id": "default",
+                    "name": "default"
+                }
+            ],
+            "image": "input_images\\fan_image_0029.jpg"
+        }
+    ],
+    "images_processed": 1,
+    "response_time": 0.9921596050262451
+}

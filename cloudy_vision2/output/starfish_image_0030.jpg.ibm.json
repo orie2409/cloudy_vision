@@ -1,0 +1,44 @@
+{
+    "custom_classes": 0,
+    "images": [
+        {
+            "classifiers": [
+                {
+                    "classes": [
+                        {
+                            "class": "echinoderm (marine animal)",
+                            "score": 0.956,
+                            "type_hierarchy": "/animal/invertebrate/echinoderm (marine animal)"
+                        },
+                        {
+                            "class": "invertebrate",
+                            "score": 0.993
+                        },
+                        {
+                            "class": "animal",
+                            "score": 0.993
+                        },
+                        {
+                            "class": "starfish",
+                            "score": 0.703,
+                            "type_hierarchy": "/animal/invertebrate/starfish"
+                        },
+                        {
+                            "class": "Indian red color",
+                            "score": 0.967
+                        },
+                        {
+                            "class": "reddish orange color",
+                            "score": 0.741
+                        }
+                    ],
+                    "classifier_id": "default",
+                    "name": "default"
+                }
+            ],
+            "image": "input_images\\starfish_image_0030.jpg"
+        }
+    ],
+    "images_processed": 1,
+    "response_time": 1.4215500354766846
+}

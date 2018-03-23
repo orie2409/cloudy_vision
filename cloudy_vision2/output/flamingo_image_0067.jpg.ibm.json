@@ -1,0 +1,57 @@
+{
+    "custom_classes": 0,
+    "images": [
+        {
+            "classifiers": [
+                {
+                    "classes": [
+                        {
+                            "class": "flamingo",
+                            "score": 0.794,
+                            "type_hierarchy": "/animal/bird/aquatic bird/flamingo"
+                        },
+                        {
+                            "class": "aquatic bird",
+                            "score": 0.83
+                        },
+                        {
+                            "class": "bird",
+                            "score": 0.831
+                        },
+                        {
+                            "class": "animal",
+                            "score": 0.832
+                        },
+                        {
+                            "class": "claw",
+                            "score": 0.517,
+                            "type_hierarchy": "/mechanical device/claw"
+                        },
+                        {
+                            "class": "mechanical device",
+                            "score": 0.517
+                        },
+                        {
+                            "class": "ibis",
+                            "score": 0.5,
+                            "type_hierarchy": "/animal/bird/aquatic bird/ibis"
+                        },
+                        {
+                            "class": "reddish orange color",
+                            "score": 0.9
+                        },
+                        {
+                            "class": "alizarine red color",
+                            "score": 0.886
+                        }
+                    ],
+                    "classifier_id": "default",
+                    "name": "default"
+                }
+            ],
+            "image": "input_images\\flamingo_image_0067.jpg"
+        }
+    ],
+    "images_processed": 1,
+    "response_time": 1.2234420776367188
+}

@@ -1,0 +1,66 @@
+{
+    "custom_classes": 0,
+    "images": [
+        {
+            "classifiers": [
+                {
+                    "classes": [
+                        {
+                            "class": "concert piano",
+                            "score": 0.924,
+                            "type_hierarchy": "/musical instrument/stringed instrument/piano/concert piano"
+                        },
+                        {
+                            "class": "piano",
+                            "score": 0.992
+                        },
+                        {
+                            "class": "stringed instrument",
+                            "score": 0.992
+                        },
+                        {
+                            "class": "musical instrument",
+                            "score": 0.992
+                        },
+                        {
+                            "class": "baby grand piano",
+                            "score": 0.599,
+                            "type_hierarchy": "/musical instrument/stringed instrument/piano/baby grand piano"
+                        },
+                        {
+                            "class": "grand piano",
+                            "score": 0.556,
+                            "type_hierarchy": "/musical instrument/stringed instrument/piano/grand piano"
+                        },
+                        {
+                            "class": "sustaining pedal",
+                            "score": 0.5,
+                            "type_hierarchy": "/bar/lever/foot pedal/sustaining pedal"
+                        },
+                        {
+                            "class": "foot pedal",
+                            "score": 0.5
+                        },
+                        {
+                            "class": "lever",
+                            "score": 0.5
+                        },
+                        {
+                            "class": "bar",
+                            "score": 0.5
+                        },
+                        {
+                            "class": "coal black color",
+                            "score": 0.984
+                        }
+                    ],
+                    "classifier_id": "default",
+                    "name": "default"
+                }
+            ],
+            "image": "input_images\\piano_image_0066.jpg"
+        }
+    ],
+    "images_processed": 1,
+    "response_time": 1.293588399887085
+}

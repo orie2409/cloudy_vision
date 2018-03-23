@@ -1,0 +1,40 @@
+{
+    "custom_classes": 0,
+    "images": [
+        {
+            "classifiers": [
+                {
+                    "classes": [
+                        {
+                            "class": "scorpion",
+                            "score": 0.946,
+                            "type_hierarchy": "/animal/invertebrate/scorpion"
+                        },
+                        {
+                            "class": "invertebrate",
+                            "score": 0.972
+                        },
+                        {
+                            "class": "animal",
+                            "score": 0.972
+                        },
+                        {
+                            "class": "false scorpion",
+                            "score": 0.5,
+                            "type_hierarchy": "/animal/invertebrate/false scorpion"
+                        },
+                        {
+                            "class": "reddish brown color",
+                            "score": 1
+                        }
+                    ],
+                    "classifier_id": "default",
+                    "name": "default"
+                }
+            ],
+            "image": "input_images\\scorpion_image_0057.jpg"
+        }
+    ],
+    "images_processed": 1,
+    "response_time": 1.2428855895996094
+}

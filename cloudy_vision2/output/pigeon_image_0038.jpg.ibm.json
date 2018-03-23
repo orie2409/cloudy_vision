@@ -1,0 +1,66 @@
+{
+    "custom_classes": 0,
+    "images": [
+        {
+            "classifiers": [
+                {
+                    "classes": [
+                        {
+                            "class": "pigeon",
+                            "score": 0.858,
+                            "type_hierarchy": "/animal/bird/gallinaceous bird/pigeon"
+                        },
+                        {
+                            "class": "gallinaceous bird",
+                            "score": 0.865
+                        },
+                        {
+                            "class": "bird",
+                            "score": 0.904
+                        },
+                        {
+                            "class": "animal",
+                            "score": 0.904
+                        },
+                        {
+                            "class": "rock dove",
+                            "score": 0.636,
+                            "type_hierarchy": "/animal/bird/gallinaceous bird/pigeon/rock dove"
+                        },
+                        {
+                            "class": "domestic pigeon",
+                            "score": 0.51,
+                            "type_hierarchy": "/animal/bird/gallinaceous bird/pigeon/domestic pigeon"
+                        },
+                        {
+                            "class": "dabbling duck",
+                            "score": 0.5,
+                            "type_hierarchy": "/animal/bird/aquatic bird/waterfowl/duck/dabbling duck"
+                        },
+                        {
+                            "class": "duck",
+                            "score": 0.532
+                        },
+                        {
+                            "class": "waterfowl",
+                            "score": 0.534
+                        },
+                        {
+                            "class": "aquatic bird",
+                            "score": 0.539
+                        },
+                        {
+                            "class": "dark red color",
+                            "score": 0.911
+                        }
+                    ],
+                    "classifier_id": "default",
+                    "name": "default"
+                }
+            ],
+            "image": "input_images\\pigeon_image_0038.jpg"
+        }
+    ],
+    "images_processed": 1,
+    "response_time": 1.2324919700622559
+}

@@ -1,0 +1,39 @@
+{
+    "custom_classes": 0,
+    "images": [
+        {
+            "classifiers": [
+                {
+                    "classes": [
+                        {
+                            "class": "stegosaur (dinosaur)",
+                            "score": 0.999,
+                            "type_hierarchy": "/animal/reptile/stegosaur (dinosaur)"
+                        },
+                        {
+                            "class": "reptile",
+                            "score": 0.999
+                        },
+                        {
+                            "class": "animal",
+                            "score": 0.999
+                        },
+                        {
+                            "class": "pink color",
+                            "score": 0.759
+                        },
+                        {
+                            "class": "greenishness color",
+                            "score": 0.697
+                        }
+                    ],
+                    "classifier_id": "default",
+                    "name": "default"
+                }
+            ],
+            "image": "input_images\\stegosaurus_image_0032.jpg"
+        }
+    ],
+    "images_processed": 1,
+    "response_time": 1.0066230297088623
+}

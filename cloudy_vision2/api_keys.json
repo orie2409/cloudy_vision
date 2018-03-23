@@ -1,12 +1,12 @@
 {
-    "google" : "AIzaSyCpogcxXxx1iyjkUeF2n_WjOwgW2Zgzb_k",
-    "clarifai": "aec515bcde9043b488e035cfc8d8316b",
-    "microsoft" : "71719152d54f4a63bc36048484c9da4b",
-    "ibm" : "ab09f243660653e08ddd8b51334cfcf02f2897cb",
-    "cloudsight" : "3XmnqSFxz6MmDmwxetbnyg",
+    "google" : "",
+    "clarifai": "",
+    "microsoft" : "",
+    "ibm" : "",
+    "cloudsight" : "",
     "rekognition": {
-        "api_key" : "AKIAJ5PEBNCDBNKM77XQ",
-        "api_secret" : "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"
+        "api_key" : "",
+        "api_secret" : ""
     },
     "eyeem": {
         "api_key" : "",

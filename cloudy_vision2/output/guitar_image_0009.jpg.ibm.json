@@ -1,0 +1,44 @@
+{
+    "custom_classes": 0,
+    "images": [
+        {
+            "classifiers": [
+                {
+                    "classes": [
+                        {
+                            "class": "acoustic guitar",
+                            "score": 0.787,
+                            "type_hierarchy": "/musical instrument/stringed instrument/guitar/acoustic guitar"
+                        },
+                        {
+                            "class": "guitar",
+                            "score": 0.944
+                        },
+                        {
+                            "class": "stringed instrument",
+                            "score": 0.973
+                        },
+                        {
+                            "class": "musical instrument",
+                            "score": 0.978
+                        },
+                        {
+                            "class": "uke (guitar)",
+                            "score": 0.5,
+                            "type_hierarchy": "/musical instrument/stringed instrument/guitar/uke (guitar)"
+                        },
+                        {
+                            "class": "reddish brown color",
+                            "score": 1
+                        }
+                    ],
+                    "classifier_id": "default",
+                    "name": "default"
+                }
+            ],
+            "image": "input_images\\guitar_image_0009.jpg"
+        }
+    ],
+    "images_processed": 1,
+    "response_time": 1.0698902606964111
+}

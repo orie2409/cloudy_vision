@@ -1,0 +1,40 @@
+{
+    "custom_classes": 0,
+    "images": [
+        {
+            "classifiers": [
+                {
+                    "classes": [
+                        {
+                            "class": "water nymph (fragrant water lily)",
+                            "score": 0.858,
+                            "type_hierarchy": "/plant/water nymph (fragrant water lily)"
+                        },
+                        {
+                            "class": "plant",
+                            "score": 0.908
+                        },
+                        {
+                            "class": "water violet",
+                            "score": 0.5,
+                            "type_hierarchy": "/plant/water violet"
+                        },
+                        {
+                            "class": "flower",
+                            "score": 0.799
+                        },
+                        {
+                            "class": "purple color",
+                            "score": 1
+                        }
+                    ],
+                    "classifier_id": "default",
+                    "name": "default"
+                }
+            ],
+            "image": "input_images\\waterlilly_image_0010.jpg"
+        }
+    ],
+    "images_processed": 1,
+    "response_time": 1.2341713905334473
+}

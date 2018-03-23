@@ -1,0 +1,61 @@
+{
+    "custom_classes": 0,
+    "images": [
+        {
+            "classifiers": [
+                {
+                    "classes": [
+                        {
+                            "class": "digital camera",
+                            "score": 0.768,
+                            "type_hierarchy": "/photographic equipment/camera/digital camera"
+                        },
+                        {
+                            "class": "camera",
+                            "score": 0.922
+                        },
+                        {
+                            "class": "photographic equipment",
+                            "score": 0.923
+                        },
+                        {
+                            "class": "point-and-shoot camera",
+                            "score": 0.71,
+                            "type_hierarchy": "/photographic equipment/camera/point-and-shoot camera"
+                        },
+                        {
+                            "class": "viewfinder",
+                            "score": 0.584,
+                            "type_hierarchy": "/optical device/viewfinder"
+                        },
+                        {
+                            "class": "optical device",
+                            "score": 0.589
+                        },
+                        {
+                            "class": "delayed action",
+                            "score": 0.5
+                        },
+                        {
+                            "class": "mechanism",
+                            "score": 0.799
+                        },
+                        {
+                            "class": "electronic equipment",
+                            "score": 0.783
+                        },
+                        {
+                            "class": "crimson color",
+                            "score": 0.572
+                        }
+                    ],
+                    "classifier_id": "default",
+                    "name": "default"
+                }
+            ],
+            "image": "input_images\\camera_image_0002.jpg"
+        }
+    ],
+    "images_processed": 1,
+    "response_time": 0.9415669441223145
+}

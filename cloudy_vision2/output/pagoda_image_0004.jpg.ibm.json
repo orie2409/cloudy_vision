@@ -1,0 +1,49 @@
+{
+    "custom_classes": 0,
+    "images": [
+        {
+            "classifiers": [
+                {
+                    "classes": [
+                        {
+                            "class": "Pagoda",
+                            "score": 0.733
+                        },
+                        {
+                            "class": "bell cote of building",
+                            "score": 0.722,
+                            "type_hierarchy": "/shelter/bell cote of building"
+                        },
+                        {
+                            "class": "shelter",
+                            "score": 0.722
+                        },
+                        {
+                            "class": "temple",
+                            "score": 0.592,
+                            "type_hierarchy": "/building/temple"
+                        },
+                        {
+                            "class": "building",
+                            "score": 0.732
+                        },
+                        {
+                            "class": "synagogue",
+                            "score": 0.5,
+                            "type_hierarchy": "/building/synagogue"
+                        },
+                        {
+                            "class": "azure color",
+                            "score": 0.979
+                        }
+                    ],
+                    "classifier_id": "default",
+                    "name": "default"
+                }
+            ],
+            "image": "input_images\\pagoda_image_0004.jpg"
+        }
+    ],
+    "images_processed": 1,
+    "response_time": 1.1558704376220703
+}

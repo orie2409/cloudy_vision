@@ -1,0 +1,44 @@
+{
+    "custom_classes": 0,
+    "images": [
+        {
+            "classifiers": [
+                {
+                    "classes": [
+                        {
+                            "class": "in-line skate",
+                            "score": 0.872,
+                            "type_hierarchy": "/skate/in-line skate"
+                        },
+                        {
+                            "class": "skate",
+                            "score": 0.987
+                        },
+                        {
+                            "class": "Rollerblade",
+                            "score": 0.83,
+                            "type_hierarchy": "/skate/Rollerblade"
+                        },
+                        {
+                            "class": "sport",
+                            "score": 0.754
+                        },
+                        {
+                            "class": "sports equipment",
+                            "score": 0.801
+                        },
+                        {
+                            "class": "ash grey color",
+                            "score": 0.982
+                        }
+                    ],
+                    "classifier_id": "default",
+                    "name": "default"
+                }
+            ],
+            "image": "input_images\\rollerblades_image_0012.jpg"
+        }
+    ],
+    "images_processed": 1,
+    "response_time": 1.0681068897247314
+}

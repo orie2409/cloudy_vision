@@ -1,0 +1,80 @@
+{
+    "custom_classes": 0,
+    "images": [
+        {
+            "classifiers": [
+                {
+                    "classes": [
+                        {
+                            "class": "samovar urn",
+                            "score": 0.603,
+                            "type_hierarchy": "/pot/samovar urn"
+                        },
+                        {
+                            "class": "pot",
+                            "score": 0.674
+                        },
+                        {
+                            "class": "tea tray",
+                            "score": 0.555,
+                            "type_hierarchy": "/utensil/tray/tea tray"
+                        },
+                        {
+                            "class": "tray",
+                            "score": 0.558
+                        },
+                        {
+                            "class": "utensil",
+                            "score": 0.653
+                        },
+                        {
+                            "class": "Aladdin's lamp",
+                            "score": 0.528,
+                            "type_hierarchy": "/lamp/Aladdin's lamp"
+                        },
+                        {
+                            "class": "lamp",
+                            "score": 0.532
+                        },
+                        {
+                            "class": "tableware",
+                            "score": 0.52,
+                            "type_hierarchy": "/utensil/tableware"
+                        },
+                        {
+                            "class": "high tea",
+                            "score": 0.516,
+                            "type_hierarchy": "/food/nutrition/meal/high tea"
+                        },
+                        {
+                            "class": "meal",
+                            "score": 0.516
+                        },
+                        {
+                            "class": "nutrition",
+                            "score": 0.516
+                        },
+                        {
+                            "class": "food",
+                            "score": 0.516
+                        },
+                        {
+                            "class": "tea urn",
+                            "score": 0.5,
+                            "type_hierarchy": "/pot/tea urn"
+                        },
+                        {
+                            "class": "olive green color",
+                            "score": 0.834
+                        }
+                    ],
+                    "classifier_id": "default",
+                    "name": "default"
+                }
+            ],
+            "image": "input_images\\ewer_image_0006.jpg"
+        }
+    ],
+    "images_processed": 1,
+    "response_time": 1.0207622051239014
+}

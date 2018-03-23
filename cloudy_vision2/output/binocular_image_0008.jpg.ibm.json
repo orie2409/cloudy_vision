@@ -1,0 +1,82 @@
+{
+    "custom_classes": 0,
+    "images": [
+        {
+            "classifiers": [
+                {
+                    "classes": [
+                        {
+                            "class": "clog",
+                            "score": 0.642,
+                            "type_hierarchy": "/footwear/clog"
+                        },
+                        {
+                            "class": "footwear",
+                            "score": 0.738
+                        },
+                        {
+                            "class": "wooden shoe",
+                            "score": 0.553,
+                            "type_hierarchy": "/footwear/shoe/wooden shoe"
+                        },
+                        {
+                            "class": "shoe",
+                            "score": 0.557
+                        },
+                        {
+                            "class": "binoculars",
+                            "score": 0.532,
+                            "type_hierarchy": "/optical device/binoculars"
+                        },
+                        {
+                            "class": "optical device",
+                            "score": 0.532
+                        },
+                        {
+                            "class": "coal scuttle",
+                            "score": 0.525
+                        },
+                        {
+                            "class": "pipefitting",
+                            "score": 0.515
+                        },
+                        {
+                            "class": "knee piece",
+                            "score": 0.5,
+                            "type_hierarchy": "/protective covering/shield/plate/knee piece"
+                        },
+                        {
+                            "class": "plate",
+                            "score": 0.5
+                        },
+                        {
+                            "class": "shield",
+                            "score": 0.5
+                        },
+                        {
+                            "class": "protective covering",
+                            "score": 0.5
+                        },
+                        {
+                            "class": "clothing",
+                            "score": 0.599
+                        },
+                        {
+                            "class": "charcoal color",
+                            "score": 0.721
+                        },
+                        {
+                            "class": "coal black color",
+                            "score": 0.575
+                        }
+                    ],
+                    "classifier_id": "default",
+                    "name": "default"
+                }
+            ],
+            "image": "input_images\\binocular_image_0008.jpg"
+        }
+    ],
+    "images_processed": 1,
+    "response_time": 0.9052984714508057
+}

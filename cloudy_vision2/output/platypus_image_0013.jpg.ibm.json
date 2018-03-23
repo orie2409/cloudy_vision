@@ -1,0 +1,69 @@
+{
+    "custom_classes": 0,
+    "images": [
+        {
+            "classifiers": [
+                {
+                    "classes": [
+                        {
+                            "class": "duckbilled platypus (aquatic bird)",
+                            "score": 0.853,
+                            "type_hierarchy": "/animal/mammal/duckbilled platypus (aquatic bird)"
+                        },
+                        {
+                            "class": "mammal",
+                            "score": 0.904
+                        },
+                        {
+                            "class": "animal",
+                            "score": 0.929
+                        },
+                        {
+                            "class": "soft-shelled turtle",
+                            "score": 0.564,
+                            "type_hierarchy": "/animal/reptile/turtle/soft-shelled turtle"
+                        },
+                        {
+                            "class": "turtle",
+                            "score": 0.566
+                        },
+                        {
+                            "class": "reptile",
+                            "score": 0.566
+                        },
+                        {
+                            "class": "Abyssinian cat",
+                            "score": 0.5,
+                            "type_hierarchy": "/animal/mammal/carnivore/feline/cat/domestic cat/Abyssinian cat"
+                        },
+                        {
+                            "class": "domestic cat",
+                            "score": 0.515
+                        },
+                        {
+                            "class": "cat",
+                            "score": 0.529
+                        },
+                        {
+                            "class": "feline",
+                            "score": 0.535
+                        },
+                        {
+                            "class": "carnivore",
+                            "score": 0.619
+                        },
+                        {
+                            "class": "light brown color",
+                            "score": 0.984
+                        }
+                    ],
+                    "classifier_id": "default",
+                    "name": "default"
+                }
+            ],
+            "image": "input_images\\platypus_image_0013.jpg"
+        }
+    ],
+    "images_processed": 1,
+    "response_time": 1.2411363124847412
+}

@@ -1,0 +1,53 @@
+{
+    "custom_classes": 0,
+    "images": [
+        {
+            "classifiers": [
+                {
+                    "classes": [
+                        {
+                            "class": "African monitor",
+                            "score": 0.712,
+                            "type_hierarchy": "/animal/reptile/lizard/African monitor"
+                        },
+                        {
+                            "class": "lizard",
+                            "score": 0.893
+                        },
+                        {
+                            "class": "reptile",
+                            "score": 0.895
+                        },
+                        {
+                            "class": "animal",
+                            "score": 0.895
+                        },
+                        {
+                            "class": "chuckwalla (lizard)",
+                            "score": 0.67,
+                            "type_hierarchy": "/animal/reptile/lizard/chuckwalla (lizard)"
+                        },
+                        {
+                            "class": "beaded lizard",
+                            "score": 0.5,
+                            "type_hierarchy": "/animal/reptile/lizard/beaded lizard"
+                        },
+                        {
+                            "class": "beige color",
+                            "score": 0.934
+                        },
+                        {
+                            "class": "greenishness color",
+                            "score": 0.601
+                        }
+                    ],
+                    "classifier_id": "default",
+                    "name": "default"
+                }
+            ],
+            "image": "input_images\\crocodile_image_0025.jpg"
+        }
+    ],
+    "images_processed": 1,
+    "response_time": 0.9635992050170898
+}

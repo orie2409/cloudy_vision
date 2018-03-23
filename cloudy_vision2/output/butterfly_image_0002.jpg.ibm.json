@@ -1,0 +1,48 @@
+{
+    "custom_classes": 0,
+    "images": [
+        {
+            "classifiers": [
+                {
+                    "classes": [
+                        {
+                            "class": "monarch butterfly",
+                            "score": 0.879,
+                            "type_hierarchy": "/animal/invertebrate/insect/butterfly/monarch butterfly"
+                        },
+                        {
+                            "class": "butterfly",
+                            "score": 0.993
+                        },
+                        {
+                            "class": "insect",
+                            "score": 0.993
+                        },
+                        {
+                            "class": "invertebrate",
+                            "score": 0.993
+                        },
+                        {
+                            "class": "animal",
+                            "score": 0.993
+                        },
+                        {
+                            "class": "viceroy butterfly",
+                            "score": 0.827,
+                            "type_hierarchy": "/animal/invertebrate/insect/butterfly/viceroy butterfly"
+                        },
+                        {
+                            "class": "purplish blue color",
+                            "score": 0.963
+                        }
+                    ],
+                    "classifier_id": "default",
+                    "name": "default"
+                }
+            ],
+            "image": "input_images\\butterfly_image_0002.jpg"
+        }
+    ],
+    "images_processed": 1,
+    "response_time": 1.2988498210906982
+}

@@ -1,0 +1,57 @@
+{
+    "custom_classes": 0,
+    "images": [
+        {
+            "classifiers": [
+                {
+                    "classes": [
+                        {
+                            "class": "barque sailing ship",
+                            "score": 0.665,
+                            "type_hierarchy": "/vehicle/craft/watercraft/barque sailing ship"
+                        },
+                        {
+                            "class": "watercraft",
+                            "score": 0.876
+                        },
+                        {
+                            "class": "craft",
+                            "score": 0.876
+                        },
+                        {
+                            "class": "vehicle",
+                            "score": 0.876
+                        },
+                        {
+                            "class": "brig (ship)",
+                            "score": 0.643,
+                            "type_hierarchy": "/vehicle/craft/watercraft/brig (ship)"
+                        },
+                        {
+                            "class": "gaff topsail",
+                            "score": 0.5,
+                            "type_hierarchy": "/vehicle/craft/watercraft/sail/gaff topsail"
+                        },
+                        {
+                            "class": "sail",
+                            "score": 0.504
+                        },
+                        {
+                            "class": "mast (sailing ship)",
+                            "score": 0.8
+                        },
+                        {
+                            "class": "gray color",
+                            "score": 0.999
+                        }
+                    ],
+                    "classifier_id": "default",
+                    "name": "default"
+                }
+            ],
+            "image": "input_images\\schooner_image_0017.jpg"
+        }
+    ],
+    "images_processed": 1,
+    "response_time": 1.6329026222229004
+}

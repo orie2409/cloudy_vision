@@ -1,0 +1,52 @@
+{
+    "custom_classes": 0,
+    "images": [
+        {
+            "classifiers": [
+                {
+                    "classes": [
+                        {
+                            "class": "alabaster color",
+                            "score": 0.917
+                        },
+                        {
+                            "class": "socle",
+                            "score": 0.565,
+                            "type_hierarchy": "/supporting structure/support/socle"
+                        },
+                        {
+                            "class": "support",
+                            "score": 0.565
+                        },
+                        {
+                            "class": "supporting structure",
+                            "score": 0.565
+                        },
+                        {
+                            "class": "artifact",
+                            "score": 0.509
+                        },
+                        {
+                            "class": "ancient person",
+                            "score": 0.5,
+                            "type_hierarchy": "/person/ancient person"
+                        },
+                        {
+                            "class": "person",
+                            "score": 0.5
+                        },
+                        {
+                            "class": "sculpture",
+                            "score": 0.797
+                        }
+                    ],
+                    "classifier_id": "default",
+                    "name": "default"
+                }
+            ],
+            "image": "input_images\\buddha_image_0064.jpg"
+        }
+    ],
+    "images_processed": 1,
+    "response_time": 0.9127299785614014
+}

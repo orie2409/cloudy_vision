@@ -1,0 +1,52 @@
+{
+    "custom_classes": 0,
+    "images": [
+        {
+            "classifiers": [
+                {
+                    "classes": [
+                        {
+                            "class": "wheelchair",
+                            "score": 0.92,
+                            "type_hierarchy": "/furniture/seat/chair/wheelchair"
+                        },
+                        {
+                            "class": "chair",
+                            "score": 0.991
+                        },
+                        {
+                            "class": "seat",
+                            "score": 0.991
+                        },
+                        {
+                            "class": "furniture",
+                            "score": 0.991
+                        },
+                        {
+                            "class": "bath chair",
+                            "score": 0.827,
+                            "type_hierarchy": "/furniture/seat/chair/bath chair"
+                        },
+                        {
+                            "class": "bicycle",
+                            "score": 0.766
+                        },
+                        {
+                            "class": "light brown color",
+                            "score": 0.88
+                        },
+                        {
+                            "class": "steel blue color",
+                            "score": 0.751
+                        }
+                    ],
+                    "classifier_id": "default",
+                    "name": "default"
+                }
+            ],
+            "image": "input_images\\wheelchair_image_0055.jpg"
+        }
+    ],
+    "images_processed": 1,
+    "response_time": 1.2395942211151123
+}

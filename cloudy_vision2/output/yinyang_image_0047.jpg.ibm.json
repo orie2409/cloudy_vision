@@ -1,0 +1,79 @@
+{
+    "custom_classes": 0,
+    "images": [
+        {
+            "classifiers": [
+                {
+                    "classes": [
+                        {
+                            "class": "eight ball (pool game)",
+                            "score": 0.821,
+                            "type_hierarchy": "/ball/eight ball (pool game)"
+                        },
+                        {
+                            "class": "ball",
+                            "score": 0.821
+                        },
+                        {
+                            "class": "magnetic disk",
+                            "score": 0.589,
+                            "type_hierarchy": "/memory device/magnetic disk"
+                        },
+                        {
+                            "class": "memory device",
+                            "score": 0.728
+                        },
+                        {
+                            "class": "LP",
+                            "score": 0.55,
+                            "type_hierarchy": "/memory device/LP"
+                        },
+                        {
+                            "class": "grinding wheel",
+                            "score": 0.506,
+                            "type_hierarchy": "/mechanical device/machine/wheel/grinding wheel"
+                        },
+                        {
+                            "class": "wheel",
+                            "score": 0.507
+                        },
+                        {
+                            "class": "machine",
+                            "score": 0.507
+                        },
+                        {
+                            "class": "mechanical device",
+                            "score": 0.507
+                        },
+                        {
+                            "class": "disk",
+                            "score": 0.5,
+                            "type_hierarchy": "/circle/disk"
+                        },
+                        {
+                            "class": "circle",
+                            "score": 0.502
+                        },
+                        {
+                            "class": "musical instrument",
+                            "score": 0.797
+                        },
+                        {
+                            "class": "recording",
+                            "score": 0.8
+                        },
+                        {
+                            "class": "coal black color",
+                            "score": 0.938
+                        }
+                    ],
+                    "classifier_id": "default",
+                    "name": "default"
+                }
+            ],
+            "image": "input_images\\yinyang_image_0047.jpg"
+        }
+    ],
+    "images_processed": 1,
+    "response_time": 1.088686227798462
+}

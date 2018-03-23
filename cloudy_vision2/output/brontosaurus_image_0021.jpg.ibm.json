@@ -1,0 +1,60 @@
+{
+    "custom_classes": 0,
+    "images": [
+        {
+            "classifiers": [
+                {
+                    "classes": [
+                        {
+                            "class": "corbel (building)",
+                            "score": 0.686,
+                            "type_hierarchy": "/support/wall bracket/corbel (building)"
+                        },
+                        {
+                            "class": "wall bracket",
+                            "score": 0.686
+                        },
+                        {
+                            "class": "support",
+                            "score": 0.686
+                        },
+                        {
+                            "class": "Indian elephant",
+                            "score": 0.629,
+                            "type_hierarchy": "/animal/mammal/pachyderm (thick skinned hoofed)/elephant/Indian elephant"
+                        },
+                        {
+                            "class": "elephant",
+                            "score": 0.647
+                        },
+                        {
+                            "class": "pachyderm (thick skinned hoofed)",
+                            "score": 0.669
+                        },
+                        {
+                            "class": "mammal",
+                            "score": 0.669
+                        },
+                        {
+                            "class": "animal",
+                            "score": 0.669
+                        },
+                        {
+                            "class": "masterpiece",
+                            "score": 0.5
+                        },
+                        {
+                            "class": "ultramarine color",
+                            "score": 0.566
+                        }
+                    ],
+                    "classifier_id": "default",
+                    "name": "default"
+                }
+            ],
+            "image": "input_images\\brontosaurus_image_0021.jpg"
+        }
+    ],
+    "images_processed": 1,
+    "response_time": 1.240133285522461
+}

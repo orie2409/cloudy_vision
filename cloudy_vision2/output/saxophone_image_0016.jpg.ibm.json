@@ -1,0 +1,58 @@
+{
+    "custom_classes": 0,
+    "images": [
+        {
+            "classifiers": [
+                {
+                    "classes": [
+                        {
+                            "class": "sax",
+                            "score": 0.819,
+                            "type_hierarchy": "/musical instrument/woodwind/single-reed instrument/sax"
+                        },
+                        {
+                            "class": "single-reed instrument",
+                            "score": 0.83
+                        },
+                        {
+                            "class": "woodwind",
+                            "score": 0.953
+                        },
+                        {
+                            "class": "musical instrument",
+                            "score": 0.956
+                        },
+                        {
+                            "class": "beating-reed instrument",
+                            "score": 0.543,
+                            "type_hierarchy": "/musical instrument/woodwind/beating-reed instrument"
+                        },
+                        {
+                            "class": "oboe (musical instrument)",
+                            "score": 0.526,
+                            "type_hierarchy": "/musical instrument/woodwind/oboe (musical instrument)"
+                        },
+                        {
+                            "class": "mouthpiece",
+                            "score": 0.504
+                        },
+                        {
+                            "class": "English horn",
+                            "score": 0.5,
+                            "type_hierarchy": "/musical instrument/woodwind/English horn"
+                        },
+                        {
+                            "class": "alabaster color",
+                            "score": 0.888
+                        }
+                    ],
+                    "classifier_id": "default",
+                    "name": "default"
+                }
+            ],
+            "image": "input_images\\saxophone_image_0016.jpg"
+        }
+    ],
+    "images_processed": 1,
+    "response_time": 1.0753302574157715
+}

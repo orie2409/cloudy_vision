@@ -1,0 +1,80 @@
+{
+    "custom_classes": 0,
+    "images": [
+        {
+            "classifiers": [
+                {
+                    "classes": [
+                        {
+                            "class": "typewriter keyboard",
+                            "score": 0.586,
+                            "type_hierarchy": "/keyboard/typewriter keyboard"
+                        },
+                        {
+                            "class": "keyboard",
+                            "score": 0.717
+                        },
+                        {
+                            "class": "QWERTY keyboard",
+                            "score": 0.573,
+                            "type_hierarchy": "/keyboard/QWERTY keyboard"
+                        },
+                        {
+                            "class": "calculator",
+                            "score": 0.616,
+                            "type_hierarchy": "/machine/calculator"
+                        },
+                        {
+                            "class": "machine",
+                            "score": 0.691
+                        },
+                        {
+                            "class": "instrument with keys",
+                            "score": 0.51,
+                            "type_hierarchy": "/bar/lever/key (keyboard)/instrument with keys"
+                        },
+                        {
+                            "class": "key (keyboard)",
+                            "score": 0.54
+                        },
+                        {
+                            "class": "lever",
+                            "score": 0.54
+                        },
+                        {
+                            "class": "bar",
+                            "score": 0.54
+                        },
+                        {
+                            "class": "typewriter",
+                            "score": 0.509,
+                            "type_hierarchy": "/machine/printer/typewriter"
+                        },
+                        {
+                            "class": "printer",
+                            "score": 0.608
+                        },
+                        {
+                            "class": "teletypewriter",
+                            "score": 0.5,
+                            "type_hierarchy": "/machine/printer/teletypewriter"
+                        },
+                        {
+                            "class": "telecommunication",
+                            "score": 0.598
+                        },
+                        {
+                            "class": "ivory color",
+                            "score": 0.942
+                        }
+                    ],
+                    "classifier_id": "default",
+                    "name": "default"
+                }
+            ],
+            "image": "input_images\\cellphone_image_0048.jpg"
+        }
+    ],
+    "images_processed": 1,
+    "response_time": 1.2406933307647705
+}

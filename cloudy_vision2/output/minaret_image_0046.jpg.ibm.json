@@ -1,0 +1,52 @@
+{
+    "custom_classes": 0,
+    "images": [
+        {
+            "classifiers": [
+                {
+                    "classes": [
+                        {
+                            "class": "spy satellite",
+                            "score": 0.898,
+                            "type_hierarchy": "/satellite/spy satellite"
+                        },
+                        {
+                            "class": "satellite",
+                            "score": 0.924
+                        },
+                        {
+                            "class": "spacecraft",
+                            "score": 0.5,
+                            "type_hierarchy": "/vehicle/craft/spacecraft"
+                        },
+                        {
+                            "class": "craft",
+                            "score": 0.5
+                        },
+                        {
+                            "class": "vehicle",
+                            "score": 0.5
+                        },
+                        {
+                            "class": "engine",
+                            "score": 0.792
+                        },
+                        {
+                            "class": "azure color",
+                            "score": 0.68
+                        },
+                        {
+                            "class": "ultramarine color",
+                            "score": 0.607
+                        }
+                    ],
+                    "classifier_id": "default",
+                    "name": "default"
+                }
+            ],
+            "image": "input_images\\minaret_image_0046.jpg"
+        }
+    ],
+    "images_processed": 1,
+    "response_time": 1.1182184219360352
+}

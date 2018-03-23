@@ -1,0 +1,66 @@
+{
+    "custom_classes": 0,
+    "images": [
+        {
+            "classifiers": [
+                {
+                    "classes": [
+                        {
+                            "class": "pullet hen",
+                            "score": 0.738,
+                            "type_hierarchy": "/animal/bird/gallinaceous bird/chicken/hen/pullet hen"
+                        },
+                        {
+                            "class": "hen",
+                            "score": 0.825
+                        },
+                        {
+                            "class": "chicken",
+                            "score": 0.831
+                        },
+                        {
+                            "class": "gallinaceous bird",
+                            "score": 0.94
+                        },
+                        {
+                            "class": "bird",
+                            "score": 0.94
+                        },
+                        {
+                            "class": "animal",
+                            "score": 0.94
+                        },
+                        {
+                            "class": "Cornish fowl",
+                            "score": 0.659,
+                            "type_hierarchy": "/animal/bird/gallinaceous bird/Cornish fowl"
+                        },
+                        {
+                            "class": "Plymouth Rock fowl",
+                            "score": 0.583,
+                            "type_hierarchy": "/animal/bird/gallinaceous bird/Plymouth Rock fowl"
+                        },
+                        {
+                            "class": "brood hen",
+                            "score": 0.5,
+                            "type_hierarchy": "/animal/bird/gallinaceous bird/chicken/hen/brood hen"
+                        },
+                        {
+                            "class": "reddish brown color",
+                            "score": 0.702
+                        },
+                        {
+                            "class": "dark red color",
+                            "score": 0.533
+                        }
+                    ],
+                    "classifier_id": "default",
+                    "name": "default"
+                }
+            ],
+            "image": "input_images\\rooster_image_0017.jpg"
+        }
+    ],
+    "images_processed": 1,
+    "response_time": 1.024043321609497
+}

@@ -1,0 +1,53 @@
+{
+    "custom_classes": 0,
+    "images": [
+        {
+            "classifiers": [
+                {
+                    "classes": [
+                        {
+                            "class": "domestic pigeon",
+                            "score": 0.662,
+                            "type_hierarchy": "/animal/bird/gallinaceous bird/pigeon/domestic pigeon"
+                        },
+                        {
+                            "class": "pigeon",
+                            "score": 0.957
+                        },
+                        {
+                            "class": "gallinaceous bird",
+                            "score": 0.957
+                        },
+                        {
+                            "class": "bird",
+                            "score": 0.958
+                        },
+                        {
+                            "class": "animal",
+                            "score": 0.958
+                        },
+                        {
+                            "class": "carrier pigeon",
+                            "score": 0.521,
+                            "type_hierarchy": "/animal/bird/gallinaceous bird/pigeon/carrier pigeon"
+                        },
+                        {
+                            "class": "tumbler pigeon",
+                            "score": 0.502,
+                            "type_hierarchy": "/animal/bird/gallinaceous bird/pigeon/tumbler pigeon"
+                        },
+                        {
+                            "class": "blue color",
+                            "score": 0.758
+                        }
+                    ],
+                    "classifier_id": "default",
+                    "name": "default"
+                }
+            ],
+            "image": "input_images\\pigeon_image_0029.jpg"
+        }
+    ],
+    "images_processed": 1,
+    "response_time": 1.2433421611785889
+}

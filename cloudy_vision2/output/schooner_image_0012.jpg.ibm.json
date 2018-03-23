@@ -1,0 +1,61 @@
+{
+    "custom_classes": 0,
+    "images": [
+        {
+            "classifiers": [
+                {
+                    "classes": [
+                        {
+                            "class": "schooner",
+                            "score": 0.826,
+                            "type_hierarchy": "/vehicle/craft/watercraft/schooner"
+                        },
+                        {
+                            "class": "watercraft",
+                            "score": 0.928
+                        },
+                        {
+                            "class": "craft",
+                            "score": 0.928
+                        },
+                        {
+                            "class": "vehicle",
+                            "score": 0.928
+                        },
+                        {
+                            "class": "gaff topsail",
+                            "score": 0.617,
+                            "type_hierarchy": "/vehicle/craft/watercraft/sail/gaff topsail"
+                        },
+                        {
+                            "class": "sail",
+                            "score": 0.742
+                        },
+                        {
+                            "class": "staysail (of sailboat)",
+                            "score": 0.5,
+                            "type_hierarchy": "/vehicle/craft/watercraft/sail/staysail (of sailboat)"
+                        },
+                        {
+                            "class": "mast (sailing ship)",
+                            "score": 0.781
+                        },
+                        {
+                            "class": "ivory color",
+                            "score": 0.848
+                        },
+                        {
+                            "class": "beige color",
+                            "score": 0.582
+                        }
+                    ],
+                    "classifier_id": "default",
+                    "name": "default"
+                }
+            ],
+            "image": "input_images\\schooner_image_0012.jpg"
+        }
+    ],
+    "images_processed": 1,
+    "response_time": 1.030601978302002
+}
