@@ -1,0 +1,56 @@
+{
+    "custom_classes": 0,
+    "images": [
+        {
+            "classifiers": [
+                {
+                    "classes": [
+                        {
+                            "class": "margay cat",
+                            "score": 0.971,
+                            "type_hierarchy": "/animal/mammal/carnivore/feline/cat/wildcat/margay cat"
+                        },
+                        {
+                            "class": "wildcat",
+                            "score": 0.995
+                        },
+                        {
+                            "class": "cat",
+                            "score": 0.995
+                        },
+                        {
+                            "class": "feline",
+                            "score": 0.995
+                        },
+                        {
+                            "class": "carnivore",
+                            "score": 0.995
+                        },
+                        {
+                            "class": "mammal",
+                            "score": 0.995
+                        },
+                        {
+                            "class": "animal",
+                            "score": 0.995
+                        },
+                        {
+                            "class": "panther cat",
+                            "score": 0.577,
+                            "type_hierarchy": "/animal/mammal/carnivore/feline/cat/wildcat/panther cat"
+                        },
+                        {
+                            "class": "ash grey color",
+                            "score": 0.756
+                        }
+                    ],
+                    "classifier_id": "default",
+                    "name": "default"
+                }
+            ],
+            "image": "input_images\\wildcat_image_0012.jpg"
+        }
+    ],
+    "images_processed": 1,
+    "response_time": 1.5567667484283447
+}

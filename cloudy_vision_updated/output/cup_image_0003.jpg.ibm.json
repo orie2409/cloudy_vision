@@ -1,0 +1,53 @@
+{
+    "custom_classes": 0,
+    "images": [
+        {
+            "classifiers": [
+                {
+                    "classes": [
+                        {
+                            "class": "gravy boat",
+                            "score": 0.685,
+                            "type_hierarchy": "/utensil/tableware/dish/gravy boat"
+                        },
+                        {
+                            "class": "dish",
+                            "score": 0.814
+                        },
+                        {
+                            "class": "tableware",
+                            "score": 0.861
+                        },
+                        {
+                            "class": "utensil",
+                            "score": 0.861
+                        },
+                        {
+                            "class": "tureen dish",
+                            "score": 0.616,
+                            "type_hierarchy": "/utensil/tableware/dish/tureen dish"
+                        },
+                        {
+                            "class": "hollowware (silverware)",
+                            "score": 0.505,
+                            "type_hierarchy": "/utensil/tableware/hollowware (silverware)"
+                        },
+                        {
+                            "class": "cream pitcher",
+                            "score": 0.5
+                        },
+                        {
+                            "class": "ivory color",
+                            "score": 0.507
+                        }
+                    ],
+                    "classifier_id": "default",
+                    "name": "default"
+                }
+            ],
+            "image": "input_images\\cup_image_0003.jpg"
+        }
+    ],
+    "images_processed": 1,
+    "response_time": 0.9449291229248047
+}

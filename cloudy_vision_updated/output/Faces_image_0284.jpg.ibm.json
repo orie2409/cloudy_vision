@@ -1,0 +1,58 @@
+{
+    "custom_classes": 0,
+    "images": [
+        {
+            "classifiers": [
+                {
+                    "classes": [
+                        {
+                            "class": "pompadour hairstyle",
+                            "score": 0.632,
+                            "type_hierarchy": "/person/pompadour hairstyle"
+                        },
+                        {
+                            "class": "person",
+                            "score": 0.67
+                        },
+                        {
+                            "class": "lather",
+                            "score": 0.531,
+                            "type_hierarchy": "/bubble/lather"
+                        },
+                        {
+                            "class": "bubble",
+                            "score": 0.531
+                        },
+                        {
+                            "class": "portrait photo",
+                            "score": 0.511,
+                            "type_hierarchy": "/person/portrait photo"
+                        },
+                        {
+                            "class": "hair net",
+                            "score": 0.5,
+                            "type_hierarchy": "/fabric/net/hair net"
+                        },
+                        {
+                            "class": "net",
+                            "score": 0.5
+                        },
+                        {
+                            "class": "fabric",
+                            "score": 0.5
+                        },
+                        {
+                            "class": "ash grey color",
+                            "score": 0.945
+                        }
+                    ],
+                    "classifier_id": "default",
+                    "name": "default"
+                }
+            ],
+            "image": "input_images\\Faces_image_0284.jpg"
+        }
+    ],
+    "images_processed": 1,
+    "response_time": 1.231844425201416
+}

@@ -1,0 +1,47 @@
+{
+    "custom_classes": 0,
+    "images": [
+        {
+            "classifiers": [
+                {
+                    "classes": [
+                        {
+                            "class": "dog",
+                            "score": 0.942,
+                            "type_hierarchy": "/animal/mammal/carnivore/canine/dog"
+                        },
+                        {
+                            "class": "canine",
+                            "score": 0.942
+                        },
+                        {
+                            "class": "carnivore",
+                            "score": 0.942
+                        },
+                        {
+                            "class": "mammal",
+                            "score": 0.942
+                        },
+                        {
+                            "class": "animal",
+                            "score": 0.942
+                        },
+                        {
+                            "class": "reddish brown color",
+                            "score": 0.877
+                        },
+                        {
+                            "class": "light brown color",
+                            "score": 0.576
+                        }
+                    ],
+                    "classifier_id": "default",
+                    "name": "default"
+                }
+            ],
+            "image": "input_images\\cougar_image_0030.jpg"
+        }
+    ],
+    "images_processed": 1,
+    "response_time": 1.232875108718872
+}

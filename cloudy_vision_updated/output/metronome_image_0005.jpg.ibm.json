@@ -1,0 +1,39 @@
+{
+    "custom_classes": 0,
+    "images": [
+        {
+            "classifiers": [
+                {
+                    "classes": [
+                        {
+                            "class": "metronome",
+                            "score": 0.998,
+                            "type_hierarchy": "/apparatus/pendulum/metronome"
+                        },
+                        {
+                            "class": "pendulum",
+                            "score": 0.998
+                        },
+                        {
+                            "class": "apparatus",
+                            "score": 0.998
+                        },
+                        {
+                            "class": "reddish brown color",
+                            "score": 0.714
+                        },
+                        {
+                            "class": "reddish orange color",
+                            "score": 0.623
+                        }
+                    ],
+                    "classifier_id": "default",
+                    "name": "default"
+                }
+            ],
+            "image": "input_images\\metronome_image_0005.jpg"
+        }
+    ],
+    "images_processed": 1,
+    "response_time": 1.2406082153320312
+}

@@ -1,0 +1,35 @@
+{
+    "custom_classes": 0,
+    "images": [
+        {
+            "classifiers": [
+                {
+                    "classes": [
+                        {
+                            "class": "diplodocus (extinct animal)",
+                            "score": 0.921,
+                            "type_hierarchy": "/animal/reptile/diplodocus (extinct animal)"
+                        },
+                        {
+                            "class": "reptile",
+                            "score": 0.921
+                        },
+                        {
+                            "class": "animal",
+                            "score": 0.921
+                        },
+                        {
+                            "class": "greenish blue color",
+                            "score": 0.946
+                        }
+                    ],
+                    "classifier_id": "default",
+                    "name": "default"
+                }
+            ],
+            "image": "input_images\\brontosaurus_image_0036.jpg"
+        }
+    ],
+    "images_processed": 1,
+    "response_time": 1.0017774105072021
+}

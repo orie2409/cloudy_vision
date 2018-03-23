@@ -1,0 +1,30 @@
+{
+    "custom_classes": 0,
+    "images": [
+        {
+            "classifiers": [
+                {
+                    "classes": [
+                        {
+                            "class": "cerebral cortex",
+                            "score": 0.999
+                        },
+                        {
+                            "class": "beige color",
+                            "score": 0.932
+                        },
+                        {
+                            "class": "light brown color",
+                            "score": 0.878
+                        }
+                    ],
+                    "classifier_id": "default",
+                    "name": "default"
+                }
+            ],
+            "image": "input_images\\brain_image_0084.jpg"
+        }
+    ],
+    "images_processed": 1,
+    "response_time": 1.2140135765075684
+}

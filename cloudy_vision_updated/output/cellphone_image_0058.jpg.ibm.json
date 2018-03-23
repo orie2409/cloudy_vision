@@ -1,0 +1,48 @@
+{
+    "custom_classes": 0,
+    "images": [
+        {
+            "classifiers": [
+                {
+                    "classes": [
+                        {
+                            "class": "ocardina",
+                            "score": 0.856,
+                            "type_hierarchy": "/musical instrument/ocardina"
+                        },
+                        {
+                            "class": "musical instrument",
+                            "score": 0.856
+                        },
+                        {
+                            "class": "telephone receiver",
+                            "score": 0.692,
+                            "type_hierarchy": "/electrical device/telephone receiver"
+                        },
+                        {
+                            "class": "electrical device",
+                            "score": 0.693
+                        },
+                        {
+                            "class": "remote control",
+                            "score": 0.5
+                        },
+                        {
+                            "class": "azure color",
+                            "score": 0.91
+                        },
+                        {
+                            "class": "blue color",
+                            "score": 0.891
+                        }
+                    ],
+                    "classifier_id": "default",
+                    "name": "default"
+                }
+            ],
+            "image": "input_images\\cellphone_image_0058.jpg"
+        }
+    ],
+    "images_processed": 1,
+    "response_time": 1.0171074867248535
+}

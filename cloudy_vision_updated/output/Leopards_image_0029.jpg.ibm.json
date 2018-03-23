@@ -1,0 +1,56 @@
+{
+    "custom_classes": 0,
+    "images": [
+        {
+            "classifiers": [
+                {
+                    "classes": [
+                        {
+                            "class": "leopard",
+                            "score": 0.963,
+                            "type_hierarchy": "/animal/mammal/carnivore/feline/big cat/leopard"
+                        },
+                        {
+                            "class": "big cat",
+                            "score": 0.992
+                        },
+                        {
+                            "class": "feline",
+                            "score": 0.992
+                        },
+                        {
+                            "class": "carnivore",
+                            "score": 0.993
+                        },
+                        {
+                            "class": "mammal",
+                            "score": 0.993
+                        },
+                        {
+                            "class": "animal",
+                            "score": 0.993
+                        },
+                        {
+                            "class": "cheetah",
+                            "score": 0.611,
+                            "type_hierarchy": "/animal/mammal/carnivore/feline/big cat/cheetah"
+                        },
+                        {
+                            "class": "coal black color",
+                            "score": 0.672
+                        },
+                        {
+                            "class": "olive green color",
+                            "score": 0.548
+                        }
+                    ],
+                    "classifier_id": "default",
+                    "name": "default"
+                }
+            ],
+            "image": "input_images\\Leopards_image_0029.jpg"
+        }
+    ],
+    "images_processed": 1,
+    "response_time": 1.048609733581543
+}

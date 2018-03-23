@@ -1,0 +1,30 @@
+{
+    "custom_classes": 0,
+    "images": [
+        {
+            "classifiers": [
+                {
+                    "classes": [
+                        {
+                            "class": "cerebral cortex",
+                            "score": 1
+                        },
+                        {
+                            "class": "carnation color",
+                            "score": 0.964
+                        },
+                        {
+                            "class": "rose color",
+                            "score": 0.838
+                        }
+                    ],
+                    "classifier_id": "default",
+                    "name": "default"
+                }
+            ],
+            "image": "input_images\\brain_image_0075.jpg"
+        }
+    ],
+    "images_processed": 1,
+    "response_time": 1.2206966876983643
+}

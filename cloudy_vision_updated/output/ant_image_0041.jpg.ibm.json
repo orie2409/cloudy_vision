@@ -1,0 +1,53 @@
+{
+    "custom_classes": 0,
+    "images": [
+        {
+            "classifiers": [
+                {
+                    "classes": [
+                        {
+                            "class": "carpenter ant",
+                            "score": 0.878,
+                            "type_hierarchy": "/animal/invertebrate/insect/ant/carpenter ant"
+                        },
+                        {
+                            "class": "ant",
+                            "score": 0.972
+                        },
+                        {
+                            "class": "insect",
+                            "score": 0.972
+                        },
+                        {
+                            "class": "invertebrate",
+                            "score": 0.972
+                        },
+                        {
+                            "class": "animal",
+                            "score": 0.972
+                        },
+                        {
+                            "class": "bulldog ant",
+                            "score": 0.581,
+                            "type_hierarchy": "/animal/invertebrate/insect/ant/bulldog ant"
+                        },
+                        {
+                            "class": "wood ant",
+                            "score": 0.5,
+                            "type_hierarchy": "/animal/invertebrate/insect/ant/wood ant"
+                        },
+                        {
+                            "class": "maroon color",
+                            "score": 0.836
+                        }
+                    ],
+                    "classifier_id": "default",
+                    "name": "default"
+                }
+            ],
+            "image": "input_images\\ant_image_0041.jpg"
+        }
+    ],
+    "images_processed": 1,
+    "response_time": 1.236741304397583
+}

@@ -1,0 +1,15 @@
+{
+    "google" : "",
+    "clarifai": "",
+    "microsoft" : "",
+    "ibm" : "",
+    "cloudsight" : "",
+    "rekognition": {
+        "api_key" : "",
+        "api_secret" : ""
+    },
+    "eyeem": {
+        "api_key" : "",
+        "api_secret" : ""
+    }
+}

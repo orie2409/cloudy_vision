@@ -1,0 +1,56 @@
+{
+    "custom_classes": 0,
+    "images": [
+        {
+            "classifiers": [
+                {
+                    "classes": [
+                        {
+                            "class": "Sicilian pizza",
+                            "score": 0.887,
+                            "type_hierarchy": "/food/nutrition/dish/pizza/Sicilian pizza"
+                        },
+                        {
+                            "class": "pizza",
+                            "score": 0.942
+                        },
+                        {
+                            "class": "dish",
+                            "score": 0.942
+                        },
+                        {
+                            "class": "nutrition",
+                            "score": 0.942
+                        },
+                        {
+                            "class": "food",
+                            "score": 0.942
+                        },
+                        {
+                            "class": "cheese pizza",
+                            "score": 0.5,
+                            "type_hierarchy": "/food/nutrition/dish/pizza/cheese pizza"
+                        },
+                        {
+                            "class": "food product",
+                            "score": 0.792
+                        },
+                        {
+                            "class": "greenishness color",
+                            "score": 0.813
+                        },
+                        {
+                            "class": "pale yellow color",
+                            "score": 0.779
+                        }
+                    ],
+                    "classifier_id": "default",
+                    "name": "default"
+                }
+            ],
+            "image": "input_images\\pizza_image_0053.jpg"
+        }
+    ],
+    "images_processed": 1,
+    "response_time": 1.226686716079712
+}

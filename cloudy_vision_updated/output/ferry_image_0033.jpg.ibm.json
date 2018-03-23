@@ -1,0 +1,74 @@
+{
+    "custom_classes": 0,
+    "images": [
+        {
+            "classifiers": [
+                {
+                    "classes": [
+                        {
+                            "class": "hull of ship",
+                            "score": 0.58
+                        },
+                        {
+                            "class": "patrol boat",
+                            "score": 0.565,
+                            "type_hierarchy": "/vehicle/craft/watercraft/patrol boat"
+                        },
+                        {
+                            "class": "watercraft",
+                            "score": 0.823
+                        },
+                        {
+                            "class": "craft",
+                            "score": 0.83
+                        },
+                        {
+                            "class": "vehicle",
+                            "score": 0.83
+                        },
+                        {
+                            "class": "cabin cruiser",
+                            "score": 0.552,
+                            "type_hierarchy": "/vehicle/craft/watercraft/boat/motorboat/cabin cruiser"
+                        },
+                        {
+                            "class": "motorboat",
+                            "score": 0.557
+                        },
+                        {
+                            "class": "boat",
+                            "score": 0.741
+                        },
+                        {
+                            "class": "naval equipment",
+                            "score": 0.55
+                        },
+                        {
+                            "class": "sea boat",
+                            "score": 0.51,
+                            "type_hierarchy": "/vehicle/craft/watercraft/boat/sea boat"
+                        },
+                        {
+                            "class": "ship's boat",
+                            "score": 0.5,
+                            "type_hierarchy": "/vehicle/craft/watercraft/boat/ship's boat"
+                        },
+                        {
+                            "class": "equipment",
+                            "score": 0.8
+                        },
+                        {
+                            "class": "sea green color",
+                            "score": 0.994
+                        }
+                    ],
+                    "classifier_id": "default",
+                    "name": "default"
+                }
+            ],
+            "image": "input_images\\ferry_image_0033.jpg"
+        }
+    ],
+    "images_processed": 1,
+    "response_time": 1.0817394256591797
+}

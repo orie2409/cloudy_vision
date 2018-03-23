@@ -1,0 +1,51 @@
+{
+    "custom_classes": 0,
+    "images": [
+        {
+            "classifiers": [
+                {
+                    "classes": [
+                        {
+                            "class": "Colt",
+                            "score": 0.867,
+                            "type_hierarchy": "/weapon/gun/firearm/Colt"
+                        },
+                        {
+                            "class": "firearm",
+                            "score": 0.883
+                        },
+                        {
+                            "class": "gun",
+                            "score": 0.889
+                        },
+                        {
+                            "class": "weapon",
+                            "score": 0.89
+                        },
+                        {
+                            "class": "flintlock gun",
+                            "score": 0.514
+                        },
+                        {
+                            "class": "gun case",
+                            "score": 0.5
+                        },
+                        {
+                            "class": "mechanism",
+                            "score": 0.8
+                        },
+                        {
+                            "class": "reddish brown color",
+                            "score": 1
+                        }
+                    ],
+                    "classifier_id": "default",
+                    "name": "default"
+                }
+            ],
+            "image": "input_images\\revolver_image_0035.jpg"
+        }
+    ],
+    "images_processed": 1,
+    "response_time": 0.9382679462432861
+}

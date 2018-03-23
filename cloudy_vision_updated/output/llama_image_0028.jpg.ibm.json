@@ -1,0 +1,40 @@
+{
+    "custom_classes": 0,
+    "images": [
+        {
+            "classifiers": [
+                {
+                    "classes": [
+                        {
+                            "class": "llama",
+                            "score": 0.889,
+                            "type_hierarchy": "/animal/mammal/llama"
+                        },
+                        {
+                            "class": "mammal",
+                            "score": 0.954
+                        },
+                        {
+                            "class": "animal",
+                            "score": 0.954
+                        },
+                        {
+                            "class": "alpaca",
+                            "score": 0.567,
+                            "type_hierarchy": "/animal/mammal/alpaca"
+                        },
+                        {
+                            "class": "ash grey color",
+                            "score": 0.864
+                        }
+                    ],
+                    "classifier_id": "default",
+                    "name": "default"
+                }
+            ],
+            "image": "input_images\\llama_image_0028.jpg"
+        }
+    ],
+    "images_processed": 1,
+    "response_time": 1.2328729629516602
+}

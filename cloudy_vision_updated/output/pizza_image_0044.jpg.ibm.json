@@ -1,0 +1,69 @@
+{
+    "custom_classes": 0,
+    "images": [
+        {
+            "classifiers": [
+                {
+                    "classes": [
+                        {
+                            "class": "pizzeria",
+                            "score": 0.802,
+                            "type_hierarchy": "/building/retail store/shop/pizzeria"
+                        },
+                        {
+                            "class": "shop",
+                            "score": 0.802
+                        },
+                        {
+                            "class": "retail store",
+                            "score": 0.802
+                        },
+                        {
+                            "class": "building",
+                            "score": 0.802
+                        },
+                        {
+                            "class": "Sicilian pizza",
+                            "score": 0.746,
+                            "type_hierarchy": "/food/nutrition/dish/pizza/Sicilian pizza"
+                        },
+                        {
+                            "class": "pizza",
+                            "score": 0.84
+                        },
+                        {
+                            "class": "dish",
+                            "score": 0.84
+                        },
+                        {
+                            "class": "nutrition",
+                            "score": 0.842
+                        },
+                        {
+                            "class": "food",
+                            "score": 0.842
+                        },
+                        {
+                            "class": "anchovy pizza",
+                            "score": 0.5,
+                            "type_hierarchy": "/food/nutrition/dish/pizza/anchovy pizza"
+                        },
+                        {
+                            "class": "food product",
+                            "score": 0.797
+                        },
+                        {
+                            "class": "Indian red color",
+                            "score": 0.993
+                        }
+                    ],
+                    "classifier_id": "default",
+                    "name": "default"
+                }
+            ],
+            "image": "input_images\\pizza_image_0044.jpg"
+        }
+    ],
+    "images_processed": 1,
+    "response_time": 1.2317709922790527
+}

@@ -1,0 +1,35 @@
+{
+    "custom_classes": 0,
+    "images": [
+        {
+            "classifiers": [
+                {
+                    "classes": [
+                        {
+                            "class": "sconce (lighting)",
+                            "score": 0.952,
+                            "type_hierarchy": "/light source/sconce (lighting)"
+                        },
+                        {
+                            "class": "light source",
+                            "score": 0.952
+                        },
+                        {
+                            "class": "holding device",
+                            "score": 0.798
+                        },
+                        {
+                            "class": "copper color",
+                            "score": 0.98
+                        }
+                    ],
+                    "classifier_id": "default",
+                    "name": "default"
+                }
+            ],
+            "image": "input_images\\chandelier_image_0082.jpg"
+        }
+    ],
+    "images_processed": 1,
+    "response_time": 1.1428501605987549
+}

@@ -1,0 +1,51 @@
+{
+    "custom_classes": 0,
+    "images": [
+        {
+            "classifiers": [
+                {
+                    "classes": [
+                        {
+                            "class": "notebook computer",
+                            "score": 0.949,
+                            "type_hierarchy": "/machine/computer/digital computer/personal computer/portable computer/notebook computer"
+                        },
+                        {
+                            "class": "portable computer",
+                            "score": 0.972
+                        },
+                        {
+                            "class": "personal computer",
+                            "score": 0.973
+                        },
+                        {
+                            "class": "digital computer",
+                            "score": 0.973
+                        },
+                        {
+                            "class": "computer",
+                            "score": 0.975
+                        },
+                        {
+                            "class": "machine",
+                            "score": 0.975
+                        },
+                        {
+                            "class": "charcoal color",
+                            "score": 0.708
+                        },
+                        {
+                            "class": "ultramarine color",
+                            "score": 0.629
+                        }
+                    ],
+                    "classifier_id": "default",
+                    "name": "default"
+                }
+            ],
+            "image": "input_images\\laptop_image_0074.jpg"
+        }
+    ],
+    "images_processed": 1,
+    "response_time": 1.0414116382598877
+}

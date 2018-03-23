@@ -1,0 +1,65 @@
+{
+    "custom_classes": 0,
+    "images": [
+        {
+            "classifiers": [
+                {
+                    "classes": [
+                        {
+                            "class": "soccer ball",
+                            "score": 0.843,
+                            "type_hierarchy": "/ball/soccer ball"
+                        },
+                        {
+                            "class": "ball",
+                            "score": 0.859
+                        },
+                        {
+                            "class": "pallone (ball game)",
+                            "score": 0.623,
+                            "type_hierarchy": "/sport/athletic game/court game/pallone (ball game)"
+                        },
+                        {
+                            "class": "court game",
+                            "score": 0.623
+                        },
+                        {
+                            "class": "athletic game",
+                            "score": 0.623
+                        },
+                        {
+                            "class": "sport",
+                            "score": 0.623
+                        },
+                        {
+                            "class": "spherical polygon",
+                            "score": 0.5,
+                            "type_hierarchy": "/figure/polygon/spherical polygon"
+                        },
+                        {
+                            "class": "polygon",
+                            "score": 0.5
+                        },
+                        {
+                            "class": "figure",
+                            "score": 0.5
+                        },
+                        {
+                            "class": "charcoal color",
+                            "score": 0.798
+                        },
+                        {
+                            "class": "coal black color",
+                            "score": 0.575
+                        }
+                    ],
+                    "classifier_id": "default",
+                    "name": "default"
+                }
+            ],
+            "image": "input_images\\ball_image_0032.jpg"
+        }
+    ],
+    "images_processed": 1,
+    "response_time": 0.9587216377258301
+}

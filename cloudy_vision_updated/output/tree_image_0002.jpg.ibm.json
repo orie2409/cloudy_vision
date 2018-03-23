@@ -1,0 +1,31 @@
+{
+    "custom_classes": 0,
+    "images": [
+        {
+            "classifiers": [
+                {
+                    "classes": [
+                        {
+                            "class": "Joshua tree",
+                            "score": 0.998,
+                            "type_hierarchy": "/plant/Joshua tree"
+                        },
+                        {
+                            "class": "plant",
+                            "score": 0.998
+                        },
+                        {
+                            "class": "chestnut color",
+                            "score": 0.998
+                        }
+                    ],
+                    "classifier_id": "default",
+                    "name": "default"
+                }
+            ],
+            "image": "input_images\\tree_image_0002.jpg"
+        }
+    ],
+    "images_processed": 1,
+    "response_time": 1.4224023818969727
+}

@@ -1,0 +1,48 @@
+{
+    "custom_classes": 0,
+    "images": [
+        {
+            "classifiers": [
+                {
+                    "classes": [
+                        {
+                            "class": "emu",
+                            "score": 0.86,
+                            "type_hierarchy": "/animal/bird/emu"
+                        },
+                        {
+                            "class": "bird",
+                            "score": 0.86
+                        },
+                        {
+                            "class": "animal",
+                            "score": 0.904
+                        },
+                        {
+                            "class": "Ungulata (hoofed mammal)",
+                            "score": 0.5,
+                            "type_hierarchy": "/animal/mammal/Ungulata (hoofed mammal)"
+                        },
+                        {
+                            "class": "mammal",
+                            "score": 0.503
+                        },
+                        {
+                            "class": "coal black color",
+                            "score": 0.736
+                        },
+                        {
+                            "class": "greenishness color",
+                            "score": 0.675
+                        }
+                    ],
+                    "classifier_id": "default",
+                    "name": "default"
+                }
+            ],
+            "image": "input_images\\emu_image_0035.jpg"
+        }
+    ],
+    "images_processed": 1,
+    "response_time": 1.2229385375976562
+}

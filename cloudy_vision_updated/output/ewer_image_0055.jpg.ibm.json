@@ -1,0 +1,43 @@
+{
+    "custom_classes": 0,
+    "images": [
+        {
+            "classifiers": [
+                {
+                    "classes": [
+                        {
+                            "class": "cruet (bottle)",
+                            "score": 0.791,
+                            "type_hierarchy": "/bottle/cruet (bottle)"
+                        },
+                        {
+                            "class": "bottle",
+                            "score": 0.791
+                        },
+                        {
+                            "class": "flagon vessel",
+                            "score": 0.71
+                        },
+                        {
+                            "class": "utensil",
+                            "score": 0.598
+                        },
+                        {
+                            "class": "alabaster color",
+                            "score": 0.955
+                        },
+                        {
+                            "class": "jade green color",
+                            "score": 0.648
+                        }
+                    ],
+                    "classifier_id": "default",
+                    "name": "default"
+                }
+            ],
+            "image": "input_images\\ewer_image_0055.jpg"
+        }
+    ],
+    "images_processed": 1,
+    "response_time": 1.073286533355713
+}

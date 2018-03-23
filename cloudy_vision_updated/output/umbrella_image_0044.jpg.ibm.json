@@ -1,0 +1,39 @@
+{
+    "custom_classes": 0,
+    "images": [
+        {
+            "classifiers": [
+                {
+                    "classes": [
+                        {
+                            "class": "umbrella",
+                            "score": 0.981,
+                            "type_hierarchy": "/shelter/canopy/umbrella"
+                        },
+                        {
+                            "class": "canopy",
+                            "score": 0.981
+                        },
+                        {
+                            "class": "shelter",
+                            "score": 0.981
+                        },
+                        {
+                            "class": "alizarine red color",
+                            "score": 0.958
+                        },
+                        {
+                            "class": "claret red color",
+                            "score": 0.691
+                        }
+                    ],
+                    "classifier_id": "default",
+                    "name": "default"
+                }
+            ],
+            "image": "input_images\\umbrella_image_0044.jpg"
+        }
+    ],
+    "images_processed": 1,
+    "response_time": 1.225731611251831
+}

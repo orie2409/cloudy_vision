@@ -1,0 +1,43 @@
+{
+    "custom_classes": 0,
+    "images": [
+        {
+            "classifiers": [
+                {
+                    "classes": [
+                        {
+                            "class": "okapi",
+                            "score": 0.999,
+                            "type_hierarchy": "/animal/mammal/ruminant/okapi"
+                        },
+                        {
+                            "class": "ruminant",
+                            "score": 0.999
+                        },
+                        {
+                            "class": "mammal",
+                            "score": 0.999
+                        },
+                        {
+                            "class": "animal",
+                            "score": 0.999
+                        },
+                        {
+                            "class": "greenishness color",
+                            "score": 0.956
+                        },
+                        {
+                            "class": "olive green color",
+                            "score": 0.662
+                        }
+                    ],
+                    "classifier_id": "default",
+                    "name": "default"
+                }
+            ],
+            "image": "input_images\\okapi_image_0009.jpg"
+        }
+    ],
+    "images_processed": 1,
+    "response_time": 1.1868882179260254
+}

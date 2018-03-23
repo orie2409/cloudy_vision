@@ -1,0 +1,70 @@
+{
+    "custom_classes": 0,
+    "images": [
+        {
+            "classifiers": [
+                {
+                    "classes": [
+                        {
+                            "class": "cat",
+                            "score": 0.967,
+                            "type_hierarchy": "/animal/mammal/carnivore/feline/cat"
+                        },
+                        {
+                            "class": "feline",
+                            "score": 0.974
+                        },
+                        {
+                            "class": "carnivore",
+                            "score": 0.974
+                        },
+                        {
+                            "class": "mammal",
+                            "score": 0.974
+                        },
+                        {
+                            "class": "animal",
+                            "score": 0.974
+                        },
+                        {
+                            "class": "leopard cat",
+                            "score": 0.597,
+                            "type_hierarchy": "/animal/mammal/carnivore/feline/cat/wildcat/leopard cat"
+                        },
+                        {
+                            "class": "wildcat",
+                            "score": 0.789
+                        },
+                        {
+                            "class": "Egyptian cat",
+                            "score": 0.509,
+                            "type_hierarchy": "/animal/mammal/carnivore/feline/cat/domestic cat/Egyptian cat"
+                        },
+                        {
+                            "class": "domestic cat",
+                            "score": 0.674
+                        },
+                        {
+                            "class": "serval cat",
+                            "score": 0.5,
+                            "type_hierarchy": "/animal/mammal/carnivore/feline/cat/wildcat/serval cat"
+                        },
+                        {
+                            "class": "beige color",
+                            "score": 0.943
+                        },
+                        {
+                            "class": "ash grey color",
+                            "score": 0.775
+                        }
+                    ],
+                    "classifier_id": "default",
+                    "name": "default"
+                }
+            ],
+            "image": "input_images\\wildcat_image_0010.jpg"
+        }
+    ],
+    "images_processed": 1,
+    "response_time": 1.5430686473846436
+}

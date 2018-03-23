@@ -1,0 +1,79 @@
+{
+    "custom_classes": 0,
+    "images": [
+        {
+            "classifiers": [
+                {
+                    "classes": [
+                        {
+                            "class": "Asian longhorned beetle",
+                            "score": 0.559,
+                            "type_hierarchy": "/animal/invertebrate/insect/beetle/Asian longhorned beetle"
+                        },
+                        {
+                            "class": "beetle",
+                            "score": 0.718
+                        },
+                        {
+                            "class": "insect",
+                            "score": 0.867
+                        },
+                        {
+                            "class": "invertebrate",
+                            "score": 0.867
+                        },
+                        {
+                            "class": "animal",
+                            "score": 0.909
+                        },
+                        {
+                            "class": "nymph",
+                            "score": 0.526,
+                            "type_hierarchy": "/animal/larva/nymph"
+                        },
+                        {
+                            "class": "larva",
+                            "score": 0.528
+                        },
+                        {
+                            "class": "long-horned beetle",
+                            "score": 0.523,
+                            "type_hierarchy": "/animal/invertebrate/insect/beetle/long-horned beetle"
+                        },
+                        {
+                            "class": "Africanized bee",
+                            "score": 0.5,
+                            "type_hierarchy": "/animal/invertebrate/insect/bee/honeybee/Africanized bee"
+                        },
+                        {
+                            "class": "honeybee",
+                            "score": 0.511
+                        },
+                        {
+                            "class": "bee",
+                            "score": 0.511
+                        },
+                        {
+                            "class": "ichneumon fly",
+                            "score": 0.5,
+                            "type_hierarchy": "/animal/invertebrate/insect/ichneumon fly"
+                        },
+                        {
+                            "class": "light brown color",
+                            "score": 0.728
+                        },
+                        {
+                            "class": "greenishness color",
+                            "score": 0.683
+                        }
+                    ],
+                    "classifier_id": "default",
+                    "name": "default"
+                }
+            ],
+            "image": "input_images\\crayfish_image_0051.jpg"
+        }
+    ],
+    "images_processed": 1,
+    "response_time": 0.9908106327056885
+}

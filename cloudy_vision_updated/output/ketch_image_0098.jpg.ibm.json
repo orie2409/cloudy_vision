@@ -1,0 +1,75 @@
+{
+    "custom_classes": 0,
+    "images": [
+        {
+            "classifiers": [
+                {
+                    "classes": [
+                        {
+                            "class": "lugsail (ship)",
+                            "score": 0.669,
+                            "type_hierarchy": "/vehicle/craft/watercraft/sail/lugsail (ship)"
+                        },
+                        {
+                            "class": "sail",
+                            "score": 0.868
+                        },
+                        {
+                            "class": "watercraft",
+                            "score": 0.926
+                        },
+                        {
+                            "class": "craft",
+                            "score": 0.926
+                        },
+                        {
+                            "class": "vehicle",
+                            "score": 0.926
+                        },
+                        {
+                            "class": "mizzen (of sailing ship)",
+                            "score": 0.626,
+                            "type_hierarchy": "/vehicle/craft/watercraft/sail/mizzen (of sailing ship)"
+                        },
+                        {
+                            "class": "yawl boat",
+                            "score": 0.535,
+                            "type_hierarchy": "/vehicle/craft/watercraft/boat/small boat/yawl boat"
+                        },
+                        {
+                            "class": "small boat",
+                            "score": 0.536
+                        },
+                        {
+                            "class": "boat",
+                            "score": 0.538
+                        },
+                        {
+                            "class": "spritsail (sail boat)",
+                            "score": 0.518,
+                            "type_hierarchy": "/vehicle/craft/watercraft/sail/spritsail (sail boat)"
+                        },
+                        {
+                            "class": "ketch (sailing vessel)",
+                            "score": 0.5,
+                            "type_hierarchy": "/vehicle/craft/watercraft/ketch (sailing vessel)"
+                        },
+                        {
+                            "class": "light brown color",
+                            "score": 0.921
+                        },
+                        {
+                            "class": "beige color",
+                            "score": 0.828
+                        }
+                    ],
+                    "classifier_id": "default",
+                    "name": "default"
+                }
+            ],
+            "image": "input_images\\ketch_image_0098.jpg"
+        }
+    ],
+    "images_processed": 1,
+    "response_time": 1.0231926441192627
+}

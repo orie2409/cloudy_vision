@@ -1,0 +1,52 @@
+{
+    "custom_classes": 0,
+    "images": [
+        {
+            "classifiers": [
+                {
+                    "classes": [
+                        {
+                            "class": "octopus",
+                            "score": 0.777,
+                            "type_hierarchy": "/animal/invertebrate/shellfish/octopus"
+                        },
+                        {
+                            "class": "shellfish",
+                            "score": 0.777
+                        },
+                        {
+                            "class": "invertebrate",
+                            "score": 0.94
+                        },
+                        {
+                            "class": "animal",
+                            "score": 0.94
+                        },
+                        {
+                            "class": "echinoderm (marine animal)",
+                            "score": 0.73,
+                            "type_hierarchy": "/animal/invertebrate/echinoderm (marine animal)"
+                        },
+                        {
+                            "class": "knot",
+                            "score": 0.783
+                        },
+                        {
+                            "class": "reddish brown color",
+                            "score": 0.716
+                        },
+                        {
+                            "class": "maroon color",
+                            "score": 0.518
+                        }
+                    ],
+                    "classifier_id": "default",
+                    "name": "default"
+                }
+            ],
+            "image": "input_images\\octopus_image_0009.jpg"
+        }
+    ],
+    "images_processed": 1,
+    "response_time": 1.2353405952453613
+}

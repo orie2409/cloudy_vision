@@ -1,0 +1,60 @@
+{
+    "custom_classes": 0,
+    "images": [
+        {
+            "classifiers": [
+                {
+                    "classes": [
+                        {
+                            "class": "hemostat (surgical instrument)",
+                            "score": 0.842,
+                            "type_hierarchy": "/medical instrument/surgical instrument/hemostat (surgical instrument)"
+                        },
+                        {
+                            "class": "surgical instrument",
+                            "score": 0.966
+                        },
+                        {
+                            "class": "medical instrument",
+                            "score": 0.966
+                        },
+                        {
+                            "class": "forceps",
+                            "score": 0.531
+                        },
+                        {
+                            "class": "pair of scissors",
+                            "score": 0.5,
+                            "type_hierarchy": "/tool/cutlery/pair of scissors"
+                        },
+                        {
+                            "class": "cutlery",
+                            "score": 0.5
+                        },
+                        {
+                            "class": "tool",
+                            "score": 0.501
+                        },
+                        {
+                            "class": "instrument",
+                            "score": 0.799
+                        },
+                        {
+                            "class": "ash grey color",
+                            "score": 0.959
+                        },
+                        {
+                            "class": "gray color",
+                            "score": 0.907
+                        }
+                    ],
+                    "classifier_id": "default",
+                    "name": "default"
+                }
+            ],
+            "image": "input_images\\scissors_image_0032.jpg"
+        }
+    ],
+    "images_processed": 1,
+    "response_time": 1.1013743877410889
+}

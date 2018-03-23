@@ -1,0 +1,52 @@
+{
+    "custom_classes": 0,
+    "images": [
+        {
+            "classifiers": [
+                {
+                    "classes": [
+                        {
+                            "class": "star",
+                            "score": 0.951,
+                            "type_hierarchy": "/figure/star"
+                        },
+                        {
+                            "class": "figure",
+                            "score": 0.951
+                        },
+                        {
+                            "class": "echinoderm (marine animal)",
+                            "score": 0.5,
+                            "type_hierarchy": "/animal/invertebrate/echinoderm (marine animal)"
+                        },
+                        {
+                            "class": "invertebrate",
+                            "score": 0.5
+                        },
+                        {
+                            "class": "animal",
+                            "score": 0.5
+                        },
+                        {
+                            "class": "plant",
+                            "score": 0.793
+                        },
+                        {
+                            "class": "azure color",
+                            "score": 0.684
+                        },
+                        {
+                            "class": "blue color",
+                            "score": 0.544
+                        }
+                    ],
+                    "classifier_id": "default",
+                    "name": "default"
+                }
+            ],
+            "image": "input_images\\starfish_image_0023.jpg"
+        }
+    ],
+    "images_processed": 1,
+    "response_time": 1.3664934635162354
+}

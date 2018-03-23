@@ -1,0 +1,48 @@
+{
+    "custom_classes": 0,
+    "images": [
+        {
+            "classifiers": [
+                {
+                    "classes": [
+                        {
+                            "class": "wheelchair",
+                            "score": 0.989,
+                            "type_hierarchy": "/furniture/seat/chair/wheelchair"
+                        },
+                        {
+                            "class": "chair",
+                            "score": 1
+                        },
+                        {
+                            "class": "seat",
+                            "score": 1
+                        },
+                        {
+                            "class": "furniture",
+                            "score": 1
+                        },
+                        {
+                            "class": "motorized wheelchair",
+                            "score": 0.5,
+                            "type_hierarchy": "/furniture/seat/chair/motorized wheelchair"
+                        },
+                        {
+                            "class": "ash grey color",
+                            "score": 0.807
+                        },
+                        {
+                            "class": "steel blue color",
+                            "score": 0.569
+                        }
+                    ],
+                    "classifier_id": "default",
+                    "name": "default"
+                }
+            ],
+            "image": "input_images\\wheelchair_image_0020.jpg"
+        }
+    ],
+    "images_processed": 1,
+    "response_time": 1.4152207374572754
+}

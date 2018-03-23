@@ -1,0 +1,69 @@
+{
+    "custom_classes": 0,
+    "images": [
+        {
+            "classifiers": [
+                {
+                    "classes": [
+                        {
+                            "class": "dwarf tulip",
+                            "score": 0.773,
+                            "type_hierarchy": "/plant/liliaceous plant/tulip/dwarf tulip"
+                        },
+                        {
+                            "class": "tulip",
+                            "score": 0.774
+                        },
+                        {
+                            "class": "liliaceous plant",
+                            "score": 0.774
+                        },
+                        {
+                            "class": "plant",
+                            "score": 0.873
+                        },
+                        {
+                            "class": "flame flower",
+                            "score": 0.565,
+                            "type_hierarchy": "/plant/wilding/wildflower/flame flower"
+                        },
+                        {
+                            "class": "wildflower",
+                            "score": 0.565
+                        },
+                        {
+                            "class": "wilding",
+                            "score": 0.565
+                        },
+                        {
+                            "class": "gloriosa (climbing lily)",
+                            "score": 0.5,
+                            "type_hierarchy": "/plant/poisonous plant/gloriosa (climbing lily)"
+                        },
+                        {
+                            "class": "poisonous plant",
+                            "score": 0.502
+                        },
+                        {
+                            "class": "flower",
+                            "score": 0.798
+                        },
+                        {
+                            "class": "reddish orange color",
+                            "score": 0.903
+                        },
+                        {
+                            "class": "dark red color",
+                            "score": 0.811
+                        }
+                    ],
+                    "classifier_id": "default",
+                    "name": "default"
+                }
+            ],
+            "image": "input_images\\lotus_image_0033.jpg"
+        }
+    ],
+    "images_processed": 1,
+    "response_time": 0.9565703868865967
+}

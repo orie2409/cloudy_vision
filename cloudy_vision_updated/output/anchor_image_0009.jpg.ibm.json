@@ -1,0 +1,69 @@
+{
+    "custom_classes": 0,
+    "images": [
+        {
+            "classifiers": [
+                {
+                    "classes": [
+                        {
+                            "class": "retractor (surgical instrument)",
+                            "score": 0.723,
+                            "type_hierarchy": "/medical instrument/surgical instrument/retractor (surgical instrument)"
+                        },
+                        {
+                            "class": "surgical instrument",
+                            "score": 0.736
+                        },
+                        {
+                            "class": "medical instrument",
+                            "score": 0.752
+                        },
+                        {
+                            "class": "cookie cutter",
+                            "score": 0.571,
+                            "type_hierarchy": "/utensil/cookie cutter"
+                        },
+                        {
+                            "class": "utensil",
+                            "score": 0.571
+                        },
+                        {
+                            "class": "claw",
+                            "score": 0.5,
+                            "type_hierarchy": "/mechanical device/claw"
+                        },
+                        {
+                            "class": "mechanical device",
+                            "score": 0.501
+                        },
+                        {
+                            "class": "stable gear",
+                            "score": 0.59
+                        },
+                        {
+                            "class": "tool",
+                            "score": 0.598
+                        },
+                        {
+                            "class": "hook",
+                            "score": 0.599
+                        },
+                        {
+                            "class": "ivory color",
+                            "score": 0.744
+                        },
+                        {
+                            "class": "gray color",
+                            "score": 0.732
+                        }
+                    ],
+                    "classifier_id": "default",
+                    "name": "default"
+                }
+            ],
+            "image": "input_images\\anchor_image_0009.jpg"
+        }
+    ],
+    "images_processed": 1,
+    "response_time": 1.2153856754302979
+}

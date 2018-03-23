@@ -1,0 +1,44 @@
+{
+    "custom_classes": 0,
+    "images": [
+        {
+            "classifiers": [
+                {
+                    "classes": [
+                        {
+                            "class": "coypu rodent",
+                            "score": 0.907,
+                            "type_hierarchy": "/animal/mammal/rodent/coypu rodent"
+                        },
+                        {
+                            "class": "rodent",
+                            "score": 0.966
+                        },
+                        {
+                            "class": "mammal",
+                            "score": 0.966
+                        },
+                        {
+                            "class": "animal",
+                            "score": 0.966
+                        },
+                        {
+                            "class": "brown rat",
+                            "score": 0.52,
+                            "type_hierarchy": "/animal/mammal/rodent/rat/brown rat"
+                        },
+                        {
+                            "class": "rat",
+                            "score": 0.603
+                        }
+                    ],
+                    "classifier_id": "default",
+                    "name": "default"
+                }
+            ],
+            "image": "input_images\\beaver_image_0003.jpg"
+        }
+    ],
+    "images_processed": 1,
+    "response_time": 1.0287227630615234
+}

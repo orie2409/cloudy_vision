@@ -1,0 +1,43 @@
+{
+    "custom_classes": 0,
+    "images": [
+        {
+            "classifiers": [
+                {
+                    "classes": [
+                        {
+                            "class": "flamingo",
+                            "score": 0.998,
+                            "type_hierarchy": "/animal/bird/aquatic bird/flamingo"
+                        },
+                        {
+                            "class": "aquatic bird",
+                            "score": 0.998
+                        },
+                        {
+                            "class": "bird",
+                            "score": 0.998
+                        },
+                        {
+                            "class": "animal",
+                            "score": 0.998
+                        },
+                        {
+                            "class": "reddish orange color",
+                            "score": 0.967
+                        },
+                        {
+                            "class": "fuschia color",
+                            "score": 0.721
+                        }
+                    ],
+                    "classifier_id": "default",
+                    "name": "default"
+                }
+            ],
+            "image": "input_images\\flamingo_image_0035.jpg"
+        }
+    ],
+    "images_processed": 1,
+    "response_time": 1.3424108028411865
+}

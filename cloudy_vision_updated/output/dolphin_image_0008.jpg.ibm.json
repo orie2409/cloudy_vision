@@ -1,0 +1,61 @@
+{
+    "custom_classes": 0,
+    "images": [
+        {
+            "classifiers": [
+                {
+                    "classes": [
+                        {
+                            "class": "Atlantic bottlenose dolphin",
+                            "score": 0.842,
+                            "type_hierarchy": "/animal/mammal/aquatic mammal/whale/dolphin/Atlantic bottlenose dolphin"
+                        },
+                        {
+                            "class": "dolphin",
+                            "score": 0.932
+                        },
+                        {
+                            "class": "whale",
+                            "score": 0.933
+                        },
+                        {
+                            "class": "aquatic mammal",
+                            "score": 0.936
+                        },
+                        {
+                            "class": "mammal",
+                            "score": 0.936
+                        },
+                        {
+                            "class": "animal",
+                            "score": 0.936
+                        },
+                        {
+                            "class": "porpoise",
+                            "score": 0.525,
+                            "type_hierarchy": "/animal/mammal/aquatic mammal/whale/dolphin/porpoise"
+                        },
+                        {
+                            "class": "Pacific bottlenose dolphin",
+                            "score": 0.5,
+                            "type_hierarchy": "/animal/mammal/aquatic mammal/whale/dolphin/Pacific bottlenose dolphin"
+                        },
+                        {
+                            "class": "gray color",
+                            "score": 0.694
+                        },
+                        {
+                            "class": "steel blue color",
+                            "score": 0.643
+                        }
+                    ],
+                    "classifier_id": "default",
+                    "name": "default"
+                }
+            ],
+            "image": "input_images\\dolphin_image_0008.jpg"
+        }
+    ],
+    "images_processed": 1,
+    "response_time": 1.2429232597351074
+}

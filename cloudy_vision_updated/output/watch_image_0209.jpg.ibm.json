@@ -1,0 +1,65 @@
+{
+    "custom_classes": 0,
+    "images": [
+        {
+            "classifiers": [
+                {
+                    "classes": [
+                        {
+                            "class": "watch",
+                            "score": 0.861,
+                            "type_hierarchy": "/measuring instrument/timepiece/watch"
+                        },
+                        {
+                            "class": "timepiece",
+                            "score": 0.884
+                        },
+                        {
+                            "class": "measuring instrument",
+                            "score": 0.884
+                        },
+                        {
+                            "class": "watch case",
+                            "score": 0.583
+                        },
+                        {
+                            "class": "wrist watch",
+                            "score": 0.558,
+                            "type_hierarchy": "/measuring instrument/timepiece/watch/wrist watch"
+                        },
+                        {
+                            "class": "watch crystal",
+                            "score": 0.5,
+                            "type_hierarchy": "/protective covering/watch crystal"
+                        },
+                        {
+                            "class": "protective covering",
+                            "score": 0.5
+                        },
+                        {
+                            "class": "mechanism",
+                            "score": 0.795
+                        },
+                        {
+                            "class": "indicator",
+                            "score": 0.798
+                        },
+                        {
+                            "class": "olive green color",
+                            "score": 0.734
+                        },
+                        {
+                            "class": "pale yellow color",
+                            "score": 0.697
+                        }
+                    ],
+                    "classifier_id": "default",
+                    "name": "default"
+                }
+            ],
+            "image": "input_images\\watch_image_0209.jpg"
+        }
+    ],
+    "images_processed": 1,
+    "response_time": 1.225088119506836
+}

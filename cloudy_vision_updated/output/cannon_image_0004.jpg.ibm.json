@@ -1,0 +1,74 @@
+{
+    "custom_classes": 0,
+    "images": [
+        {
+            "classifiers": [
+                {
+                    "classes": [
+                        {
+                            "class": "gun carriage",
+                            "score": 0.684,
+                            "type_hierarchy": "/supporting structure/framework/gun carriage"
+                        },
+                        {
+                            "class": "framework",
+                            "score": 0.684
+                        },
+                        {
+                            "class": "supporting structure",
+                            "score": 0.684
+                        },
+                        {
+                            "class": "wagon wheel",
+                            "score": 0.628,
+                            "type_hierarchy": "/mechanical device/machine/wheel/wagon wheel"
+                        },
+                        {
+                            "class": "wheel",
+                            "score": 0.859
+                        },
+                        {
+                            "class": "machine",
+                            "score": 0.86
+                        },
+                        {
+                            "class": "mechanical device",
+                            "score": 0.861
+                        },
+                        {
+                            "class": "sprocket wheel",
+                            "score": 0.539,
+                            "type_hierarchy": "/mechanical device/machine/wheel/sprocket wheel"
+                        },
+                        {
+                            "class": "gear wheel",
+                            "score": 0.5,
+                            "type_hierarchy": "/mechanical device/machine/wheel/gear wheel"
+                        },
+                        {
+                            "class": "weapon",
+                            "score": 0.798
+                        },
+                        {
+                            "class": "mechanism",
+                            "score": 0.8
+                        },
+                        {
+                            "class": "greenishness color",
+                            "score": 0.633
+                        },
+                        {
+                            "class": "coal black color",
+                            "score": 0.581
+                        }
+                    ],
+                    "classifier_id": "default",
+                    "name": "default"
+                }
+            ],
+            "image": "input_images\\cannon_image_0004.jpg"
+        }
+    ],
+    "images_processed": 1,
+    "response_time": 1.0743021965026855
+}

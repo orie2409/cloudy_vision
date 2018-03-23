@@ -1,0 +1,78 @@
+{
+    "custom_classes": 0,
+    "images": [
+        {
+            "classifiers": [
+                {
+                    "classes": [
+                        {
+                            "class": "common louse",
+                            "score": 0.671,
+                            "type_hierarchy": "/animal/invertebrate/insect/common louse"
+                        },
+                        {
+                            "class": "insect",
+                            "score": 0.801
+                        },
+                        {
+                            "class": "invertebrate",
+                            "score": 0.801
+                        },
+                        {
+                            "class": "animal",
+                            "score": 0.801
+                        },
+                        {
+                            "class": "chain",
+                            "score": 0.602
+                        },
+                        {
+                            "class": "head louse",
+                            "score": 0.533,
+                            "type_hierarchy": "/animal/invertebrate/insect/head louse"
+                        },
+                        {
+                            "class": "quipu calculator",
+                            "score": 0.506,
+                            "type_hierarchy": "/machine/calculator/quipu calculator"
+                        },
+                        {
+                            "class": "calculator",
+                            "score": 0.506
+                        },
+                        {
+                            "class": "machine",
+                            "score": 0.506
+                        },
+                        {
+                            "class": "louse",
+                            "score": 0.5,
+                            "type_hierarchy": "/animal/invertebrate/insect/louse"
+                        },
+                        {
+                            "class": "plant",
+                            "score": 0.797
+                        },
+                        {
+                            "class": "electrical connector",
+                            "score": 0.801
+                        },
+                        {
+                            "class": "ivory color",
+                            "score": 0.723
+                        },
+                        {
+                            "class": "gray color",
+                            "score": 0.544
+                        }
+                    ],
+                    "classifier_id": "default",
+                    "name": "default"
+                }
+            ],
+            "image": "input_images\\octopus_image_0017.jpg"
+        }
+    ],
+    "images_processed": 1,
+    "response_time": 1.223665475845337
+}

@@ -1,0 +1,35 @@
+{
+    "custom_classes": 0,
+    "images": [
+        {
+            "classifiers": [
+                {
+                    "classes": [
+                        {
+                            "class": "paper based (stamps/currency)",
+                            "score": 0.998,
+                            "type_hierarchy": "/written document/paper based (stamps/currency)"
+                        },
+                        {
+                            "class": "written document",
+                            "score": 0.998
+                        },
+                        {
+                            "class": "greenishness color",
+                            "score": 0.783
+                        },
+                        {
+                            "class": "olive green color",
+                            "score": 0.644
+                        }
+                    ],
+                    "classifier_id": "default",
+                    "name": "default"
+                }
+            ],
+            "image": "input_images\\dollar_image_0030.jpg"
+        }
+    ],
+    "images_processed": 1,
+    "response_time": 1.2224342823028564
+}

@@ -1,0 +1,35 @@
+{
+    "custom_classes": 0,
+    "images": [
+        {
+            "classifiers": [
+                {
+                    "classes": [
+                        {
+                            "class": "ibis",
+                            "score": 0.982,
+                            "type_hierarchy": "/animal/bird/aquatic bird/ibis"
+                        },
+                        {
+                            "class": "aquatic bird",
+                            "score": 0.982
+                        },
+                        {
+                            "class": "bird",
+                            "score": 0.982
+                        },
+                        {
+                            "class": "animal",
+                            "score": 0.982
+                        }
+                    ],
+                    "classifier_id": "default",
+                    "name": "default"
+                }
+            ],
+            "image": "input_images\\ibis_image_0039.jpg"
+        }
+    ],
+    "images_processed": 1,
+    "response_time": 1.0989060401916504
+}

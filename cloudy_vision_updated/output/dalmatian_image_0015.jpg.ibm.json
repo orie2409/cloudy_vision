@@ -1,0 +1,76 @@
+{
+    "custom_classes": 0,
+    "images": [
+        {
+            "classifiers": [
+                {
+                    "classes": [
+                        {
+                            "class": "openwork",
+                            "score": 0.618
+                        },
+                        {
+                            "class": "houndstooth check",
+                            "score": 0.558
+                        },
+                        {
+                            "class": "dalmatian dog",
+                            "score": 0.539,
+                            "type_hierarchy": "/animal/domestic animal/dog/dalmatian dog"
+                        },
+                        {
+                            "class": "dog",
+                            "score": 0.539
+                        },
+                        {
+                            "class": "domestic animal",
+                            "score": 0.54
+                        },
+                        {
+                            "class": "animal",
+                            "score": 0.541
+                        },
+                        {
+                            "class": "vase",
+                            "score": 0.518,
+                            "type_hierarchy": "/jar/vase"
+                        },
+                        {
+                            "class": "jar",
+                            "score": 0.519
+                        },
+                        {
+                            "class": "pepper shaker",
+                            "score": 0.5
+                        },
+                        {
+                            "class": "footwear",
+                            "score": 0.599
+                        },
+                        {
+                            "class": "clothing",
+                            "score": 0.6
+                        },
+                        {
+                            "class": "fabric",
+                            "score": 0.598
+                        },
+                        {
+                            "class": "ivory color",
+                            "score": 0.87
+                        },
+                        {
+                            "class": "purplish blue color",
+                            "score": 0.782
+                        }
+                    ],
+                    "classifier_id": "default",
+                    "name": "default"
+                }
+            ],
+            "image": "input_images\\dalmatian_image_0015.jpg"
+        }
+    ],
+    "images_processed": 1,
+    "response_time": 0.9755163192749023
+}

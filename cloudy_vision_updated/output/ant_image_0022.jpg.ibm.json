@@ -1,0 +1,75 @@
+{
+    "custom_classes": 0,
+    "images": [
+        {
+            "classifiers": [
+                {
+                    "classes": [
+                        {
+                            "class": "American lobster",
+                            "score": 0.557,
+                            "type_hierarchy": "/animal/invertebrate/lobster/American lobster"
+                        },
+                        {
+                            "class": "lobster",
+                            "score": 0.633
+                        },
+                        {
+                            "class": "invertebrate",
+                            "score": 0.633
+                        },
+                        {
+                            "class": "animal",
+                            "score": 0.748
+                        },
+                        {
+                            "class": "packhorse",
+                            "score": 0.52,
+                            "type_hierarchy": "/animal/mammal/odd-toed ungulate (hoofed mammal)/packhorse"
+                        },
+                        {
+                            "class": "odd-toed ungulate (hoofed mammal)",
+                            "score": 0.627
+                        },
+                        {
+                            "class": "mammal",
+                            "score": 0.627
+                        },
+                        {
+                            "class": "Indian pony",
+                            "score": 0.52,
+                            "type_hierarchy": "/animal/mammal/odd-toed ungulate (hoofed mammal)/Indian pony"
+                        },
+                        {
+                            "class": "polo pony",
+                            "score": 0.504,
+                            "type_hierarchy": "/animal/mammal/odd-toed ungulate (hoofed mammal)/polo pony"
+                        },
+                        {
+                            "class": "lifeguard",
+                            "score": 0.5,
+                            "type_hierarchy": "/person/lifeguard"
+                        },
+                        {
+                            "class": "person",
+                            "score": 0.5
+                        },
+                        {
+                            "class": "Indian red color",
+                            "score": 0.895
+                        },
+                        {
+                            "class": "sanguine (red) color",
+                            "score": 0.521
+                        }
+                    ],
+                    "classifier_id": "default",
+                    "name": "default"
+                }
+            ],
+            "image": "input_images\\ant_image_0022.jpg"
+        }
+    ],
+    "images_processed": 1,
+    "response_time": 0.956416130065918
+}

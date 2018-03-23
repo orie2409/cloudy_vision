@@ -1,0 +1,56 @@
+{
+    "custom_classes": 0,
+    "images": [
+        {
+            "classifiers": [
+                {
+                    "classes": [
+                        {
+                            "class": "wand",
+                            "score": 0.781,
+                            "type_hierarchy": "/rod/wand"
+                        },
+                        {
+                            "class": "rod",
+                            "score": 0.782
+                        },
+                        {
+                            "class": "fipple flute",
+                            "score": 0.702,
+                            "type_hierarchy": "/musical instrument/pipe/fipple flute"
+                        },
+                        {
+                            "class": "pipe",
+                            "score": 0.702
+                        },
+                        {
+                            "class": "musical instrument",
+                            "score": 0.704
+                        },
+                        {
+                            "class": "backscratcher",
+                            "score": 0.5
+                        },
+                        {
+                            "class": "cleaning implement",
+                            "score": 0.593
+                        },
+                        {
+                            "class": "stick",
+                            "score": 0.59
+                        },
+                        {
+                            "class": "pale yellow color",
+                            "score": 0.996
+                        }
+                    ],
+                    "classifier_id": "default",
+                    "name": "default"
+                }
+            ],
+            "image": "input_images\\minaret_image_0060.jpg"
+        }
+    ],
+    "images_processed": 1,
+    "response_time": 0.9262189865112305
+}

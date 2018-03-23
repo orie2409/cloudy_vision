@@ -1,0 +1,35 @@
+{
+    "custom_classes": 0,
+    "images": [
+        {
+            "classifiers": [
+                {
+                    "classes": [
+                        {
+                            "class": "okapi",
+                            "score": 0.999,
+                            "type_hierarchy": "/animal/mammal/ruminant/okapi"
+                        },
+                        {
+                            "class": "ruminant",
+                            "score": 0.999
+                        },
+                        {
+                            "class": "mammal",
+                            "score": 0.999
+                        },
+                        {
+                            "class": "animal",
+                            "score": 0.999
+                        }
+                    ],
+                    "classifier_id": "default",
+                    "name": "default"
+                }
+            ],
+            "image": "input_images\\okapi_image_0002.jpg"
+        }
+    ],
+    "images_processed": 1,
+    "response_time": 1.0504770278930664
+}

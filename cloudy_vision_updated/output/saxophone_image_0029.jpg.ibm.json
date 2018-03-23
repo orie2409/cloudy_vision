@@ -1,0 +1,69 @@
+{
+    "custom_classes": 0,
+    "images": [
+        {
+            "classifiers": [
+                {
+                    "classes": [
+                        {
+                            "class": "sax",
+                            "score": 0.77,
+                            "type_hierarchy": "/musical instrument/woodwind/single-reed instrument/sax"
+                        },
+                        {
+                            "class": "single-reed instrument",
+                            "score": 0.779
+                        },
+                        {
+                            "class": "woodwind",
+                            "score": 0.78
+                        },
+                        {
+                            "class": "musical instrument",
+                            "score": 0.873
+                        },
+                        {
+                            "class": "tenor saxophonist (musician)",
+                            "score": 0.747,
+                            "type_hierarchy": "/person/entertainer/musician/tenor saxophonist (musician)"
+                        },
+                        {
+                            "class": "musician",
+                            "score": 0.748
+                        },
+                        {
+                            "class": "entertainer",
+                            "score": 0.748
+                        },
+                        {
+                            "class": "person",
+                            "score": 0.748
+                        },
+                        {
+                            "class": "baritone horn",
+                            "score": 0.5,
+                            "type_hierarchy": "/musical instrument/brass instrument/baritone horn"
+                        },
+                        {
+                            "class": "brass instrument",
+                            "score": 0.556
+                        },
+                        {
+                            "class": "emerald color",
+                            "score": 0.882
+                        },
+                        {
+                            "class": "Indian red color",
+                            "score": 0.834
+                        }
+                    ],
+                    "classifier_id": "default",
+                    "name": "default"
+                }
+            ],
+            "image": "input_images\\saxophone_image_0029.jpg"
+        }
+    ],
+    "images_processed": 1,
+    "response_time": 1.1050875186920166
+}

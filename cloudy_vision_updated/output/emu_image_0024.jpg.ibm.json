@@ -1,0 +1,31 @@
+{
+    "custom_classes": 0,
+    "images": [
+        {
+            "classifiers": [
+                {
+                    "classes": [
+                        {
+                            "class": "emu",
+                            "score": 0.993,
+                            "type_hierarchy": "/animal/bird/emu"
+                        },
+                        {
+                            "class": "bird",
+                            "score": 0.993
+                        },
+                        {
+                            "class": "animal",
+                            "score": 0.993
+                        }
+                    ],
+                    "classifier_id": "default",
+                    "name": "default"
+                }
+            ],
+            "image": "input_images\\emu_image_0024.jpg"
+        }
+    ],
+    "images_processed": 1,
+    "response_time": 1.2220158576965332
+}
